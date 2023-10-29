@@ -18,11 +18,11 @@ public class playerMovement : MonoBehaviour
     // Update is called once per frame
     void Update()
     {
-        hor = Input.GetAxis("Horizontal") * moveSpeed;
-        ver = Input.GetAxis("Vertical") * moveSpeed;
+        hor = Input.GetAxis("Horizontal");
+        ver = Input.GetAxis("Vertical");
 
-        //rb.velocity = new Vector3(hor, rb.velocity.y, ver).normalized * moveSpeed;
-        rb.velocity = new Vector3(hor, rb.velocity.y, ver);
+        rb.velocity = new Vector3(hor, rb.velocity.y, ver).normalized * moveSpeed;
+        //rb.velocity = new Vector3(hor, rb.velocity.y, ver);
 
         if (Input.GetKeyDown("space"))
         {
