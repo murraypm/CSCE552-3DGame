@@ -37,7 +37,7 @@ public class playerMovement : MonoBehaviour
     // Update is called once per frame
     void Update()
     {
-        MyInput();
+        PlayerInput();
         SpeedControl();
         if (onGround)
         {
@@ -54,7 +54,7 @@ public class playerMovement : MonoBehaviour
         MovePlayer();
     }
 
-    private void MyInput()
+    private void PlayerInput()
     {
         horizontalInput = Input.GetAxisRaw("Horizontal");
         verticalInput = Input.GetAxisRaw("Vertical");
