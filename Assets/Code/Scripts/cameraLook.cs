@@ -10,7 +10,7 @@ public class cameraLook : MonoBehaviour
     Vector3 FollowPos;
     public float lowerClampAngle = -80.0f;
     public float upperClampAngle = 80.0f;
-    public float sensitivity = 400.0f;
+    public float sensitivity = 100.0f;
     public GameObject CameraObj;
     public GameObject PlayerObj;
    
@@ -41,19 +41,20 @@ public class cameraLook : MonoBehaviour
     void Update()
     {
         mouseX = Input.GetAxis("Mouse X");
-        mouseY = Input.GetAxis("Mouse Y");
+        //mouseY = Input.GetAxis("Mouse Y");
 
         rotX += mouseX * sensitivity * Time.deltaTime;
-        rotY += mouseY * sensitivity * Time.deltaTime;
+        //rotY += mouseY * sensitivity * Time.deltaTime;
 
-        rotY = Mathf.Clamp(rotY, lowerClampAngle, upperClampAngle);
-        Quaternion localRotation = Quaternion.Euler(-rotY, rotX, 0.0f);
-        transform.rotation = localRotation;
+        //rotY = Mathf.Clamp(rotY, lowerClampAngle, upperClampAngle);
+        Quaternion localRotation = Quaternion.Euler(0.0f, rotX, 0.0f);
+        PlayerObj.transform.rotation = localRotation;
+        //transform.rotation = localRotation;
     }
 
     void LateUpdate()
     {
-        CameraMove();
+        // CameraMove();
     }
 
     void CameraMove()

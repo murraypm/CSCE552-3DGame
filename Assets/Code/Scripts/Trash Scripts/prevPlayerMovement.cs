@@ -4,30 +4,56 @@ using UnityEngine;
 
 public class prevPlayerMovement : MonoBehaviour
 {
+    public KeyCode jumpKey = KeyCode.Space;
+    public KeyCode sprintKey = KeyCode.LeftControl;
     Rigidbody rb;
-    float moveSpeed;
-    float hor, ver;
+    public float moveSpeed = 10.0f;
+    public float jumpForce = 10.0f;
+    private float hor, ver;
+    private bool onGround = true;
 
     // Start is called before the first frame update
     void Start()
     {
         rb = GetComponent<Rigidbody>();
-        moveSpeed = 5f;
+        //moveSpeed = 5f;
     }
 
     // Update is called once per frame
     void Update()
     {
-        hor = Input.GetAxis("Horizontal");
-        ver = Input.GetAxis("Vertical");
+        hor = Input.GetAxisRaw("Horizontal");
+        ver = Input.GetAxisRaw("Vertical");
 
-        rb.velocity = new Vector3(hor, rb.velocity.y, ver).normalized * moveSpeed;
-        //rb.velocity = new Vector3(hor, rb.velocity.y, ver);
-
-        if (Input.GetKeyDown("space"))
+        if (Input.GetKey(sprintKey))
         {
-            rb.velocity = new Vector3(hor, 5, ver);
+            moveSpeed = 20.0f;
+        } else
+        {
+            moveSpeed = 10.0f;
         }
-        
+
+        this.transform.position += (transform.forward * ver + transform.right * hor).normalized * moveSpeed * Time.deltaTime;
+
+        if (Input.GetKey(jumpKey) && onGround)
+        {
+            rb.velocity = new Vector3(rb.velocity.x, 0f, rb.velocity.z);
+            rb.AddForce(transform.up * jumpForce, ForceMode.Impulse);
+        }
+    }
+    private void OnCollisionEnter(Collision check)
+    {
+        if (check.gameObject.CompareTag("Ground"))
+        {
+            onGround = true;
+        }
+    }
+
+    private void OnCollisionExit(Collision check)
+    {
+        if (check.gameObject.CompareTag("Ground"))
+        {
+            onGround = false;
+        }
     }
 }
