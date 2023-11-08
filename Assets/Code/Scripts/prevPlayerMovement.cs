@@ -8,7 +8,7 @@ public class prevPlayerMovement : MonoBehaviour
     public KeyCode sprintKey = KeyCode.LeftControl;
     Rigidbody rb;
     public float moveSpeed = 10.0f;
-    public float jumpForce = 10.0f;
+    public float jumpForce = 5.0f;
     private float hor, ver;
     private bool onGround = true;
 
