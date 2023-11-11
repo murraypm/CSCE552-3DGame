@@ -658,6 +658,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   icholder: {fileID: 1223415984}
+  interaction: {fileID: 146167504}
 --- !u!1 &963194225
 GameObject:
   m_ObjectHideFlags: 0
