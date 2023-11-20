@@ -16,7 +16,7 @@ public class TimeController : MonoBehaviour
     private TextMeshProUGUI timeGUI;
 
     //https://www.c-sharpcorner.com/article/datetime-in-c-sharp/
-    private DateTime time;
+    public DateTime time;
 
     // Start is called before the first frame update
     void Start()
