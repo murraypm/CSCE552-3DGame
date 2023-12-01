@@ -29,8 +29,13 @@ public class buildingV3 : MonoBehaviour
         if (Physics.Raycast(PlayerRaycast.position, PlayerRaycast.forward, out RaycastHit hitinfo))
         {
             //Debug.Log(hitInfo.transform.name);
-            Vector3 placePosition = new Vector3(Mathf.RoundToInt(hitinfo.point.x), Mathf.RoundToInt(hitinfo.point.y), Mathf.RoundToInt(hitinfo.point.z));
-            Instantiate(bm, placePosition, Quaternion.identity);
+            if(hitinfo.transform.tag == "Build")
+            {
+                Vector3 placePosition = new Vector3(Mathf.RoundToInt(hitinfo.point.x), Mathf.RoundToInt(hitinfo.point.y), Mathf.RoundToInt(hitinfo.point.z));
+                Instantiate(bm, placePosition, Quaternion.identity);
+            }
+            //Vector3 placePosition = new Vector3(Mathf.RoundToInt(hitinfo.point.x), Mathf.RoundToInt(hitinfo.point.y), Mathf.RoundToInt(hitinfo.point.z));
+            //Instantiate(bm, placePosition, Quaternion.identity);
         }
         //Physics.Raycast(PlayerRaycast.position, PlayerRaycast.forward, out RaycastHit hitinfo)
     }
