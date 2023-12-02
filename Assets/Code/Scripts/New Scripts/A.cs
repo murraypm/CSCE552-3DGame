@@ -23,7 +23,14 @@ public class A : MonoBehaviour
                 if(collider.TryGetComponent(out B interactWithCube)){
                     interactWithCube.Interact();
                 }
-
+                if (collider.TryGetComponent(out C interactWithWood))
+                {
+                    interactWithWood.Interact();
+                }
+                if (collider.TryGetComponent(out D interactWithStone))
+                {
+                    interactWithStone.Interact();
+                }
             }
         }
     }
@@ -41,4 +48,18 @@ public class A : MonoBehaviour
         }
         return null;
     }
+
+    /*public C GetInteractable()
+    {
+        Collider[] playerRangeArray = Physics.OverlapSphere(transform.position, interactDistance);
+        foreach (Collider collider in playerRangeArray)
+        {
+            if (collider.TryGetComponent(out C interactWithWood))
+            {
+                return interactWithWood;
+            }
+
+        }
+        return null;
+    }*/
 }

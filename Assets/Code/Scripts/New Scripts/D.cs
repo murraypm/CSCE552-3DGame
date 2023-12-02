@@ -2,7 +2,7 @@ using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
 
-public class C : MonoBehaviour
+public class D : MonoBehaviour
 {
     //public GameObject gui;
     // Start is called before the first frame update
@@ -16,11 +16,9 @@ public class C : MonoBehaviour
     {
         
     }
-
     public void Interact()
     {
-        ///gui.GetComponent<resourceManager>().woodUp();
-        Debug.Log("WoodInteracted!");
-        //woodUp();
+        //gui.GetComponent<resourceManager>().stoneUp();
+        Debug.Log("StoneInteracted!");
     }
 }

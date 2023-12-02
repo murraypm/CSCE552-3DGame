@@ -18,6 +18,8 @@ public class B : MonoBehaviour
 
     public void Interact()
     {
+        
         Debug.Log("CubeInteracted!");
+        //Destroy();
     }
 }

@@ -2,9 +2,8 @@ using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
 
-public class C : MonoBehaviour
+public class E : MonoBehaviour
 {
-    //public GameObject gui;
     // Start is called before the first frame update
     void Start()
     {
@@ -16,11 +15,9 @@ public class C : MonoBehaviour
     {
         
     }
-
     public void Interact()
     {
-        ///gui.GetComponent<resourceManager>().woodUp();
-        Debug.Log("WoodInteracted!");
-        //woodUp();
+
+        Debug.Log("GraveInteracted!");
     }
 }
