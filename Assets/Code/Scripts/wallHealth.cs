@@ -11,4 +11,9 @@ public class wallHealth : MonoBehaviour
     {
         HPfill.value = health;
     }
+
+    public void DamageWall(int health)
+    {
+        HPfill.value -= health;
+    }
 }
