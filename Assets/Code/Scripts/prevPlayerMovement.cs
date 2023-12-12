@@ -6,11 +6,15 @@ public class prevPlayerMovement : MonoBehaviour
 {
     public KeyCode jumpKey = KeyCode.Space;
     public KeyCode sprintKey = KeyCode.LeftControl;
+    public KeyCode forwardKey = KeyCode.W;
     Rigidbody rb;
     public float moveSpeed = 10.0f;
     public float jumpForce = 5.0f;
     private float hor, ver;
     private bool onGround = true;
+
+    [SerializeField] private AudioSource WalkingSoundEffect;
+    [SerializeField] private AudioSource RunningSoundEffect;
 
     // Start is called before the first frame update
     void Start()
@@ -27,9 +31,16 @@ public class prevPlayerMovement : MonoBehaviour
 
         if (Input.GetKey(sprintKey))
         {
+            RunningSoundEffect.Play();
+            Debug.Log("Running");
             moveSpeed = 20.0f;
-        } else
+        } else if(hor+ver == 0)
         {
+        }
+        else
+        {
+            WalkingSoundEffect.Play();
+            Debug.Log("Walking");
             moveSpeed = 10.0f;
         }
 
@@ -37,6 +48,7 @@ public class prevPlayerMovement : MonoBehaviour
 
         if (Input.GetKey(jumpKey) && onGround)
         {
+            //stop running / walking sound
             rb.velocity = new Vector3(rb.velocity.x, 0f, rb.velocity.z);
             rb.AddForce(transform.up * jumpForce, ForceMode.Impulse);
         }
