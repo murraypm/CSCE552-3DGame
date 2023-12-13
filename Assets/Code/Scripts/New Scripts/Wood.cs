@@ -10,6 +10,7 @@ public class Wood : MonoBehaviour
     // Start is called before the first frame update
 
     [SerializeField] private TextMeshProUGUI woodCount;
+    int startWood = 1;
 
     void Start()
     {
@@ -24,6 +25,7 @@ public class Wood : MonoBehaviour
 
     public void Interact()
     {
+        woodCount.text = "Wood " + startWood.ToString();
         ///gui.GetComponent<resourceManager>().woodUp();
         Debug.Log("WoodInteracted!");
         //woodUp();
