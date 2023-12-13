@@ -13,8 +13,8 @@ public class prevPlayerMovement : MonoBehaviour
     private float hor, ver;
     private bool onGround = true;
 
-    [SerializeField] private AudioSource WalkingSoundEffect;
-    [SerializeField] private AudioSource RunningSoundEffect;
+    //[SerializeField] private AudioSource WalkingSoundEffect;
+    //[SerializeField] private AudioSource RunningSoundEffect;
 
     // Start is called before the first frame update
     void Start()
@@ -31,15 +31,13 @@ public class prevPlayerMovement : MonoBehaviour
 
         if (Input.GetKey(sprintKey))
         {
-            RunningSoundEffect.Play();
+            //RunningSoundEffect.Play();
             Debug.Log("Running");
             moveSpeed = 20.0f;
-        } else if(hor+ver == 0)
-        {
-        }
+        } 
         else
         {
-            WalkingSoundEffect.Play();
+            //WalkingSoundEffect.Play();
             Debug.Log("Walking");
             moveSpeed = 10.0f;
         }

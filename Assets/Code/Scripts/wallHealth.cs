@@ -6,6 +6,19 @@ using UnityEngine.UI;
 public class wallHealth : MonoBehaviour
 {
     public Slider HPfill;
+    [SerializeField] private AudioSource wallDamage;
+
+    // Start is called before the first frame update
+    void Start()
+    {
+
+    }
+
+    // Update is called once per frame
+    void Update()
+    {
+
+    }
 
     public void SetWallHealth(int health)
     {
@@ -14,6 +27,7 @@ public class wallHealth : MonoBehaviour
 
     public void DamageWall(int health)
     {
+        wallDamage.Play();
         HPfill.value -= health;
     }
 }
