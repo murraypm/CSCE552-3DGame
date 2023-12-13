@@ -16957,7 +16957,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   HPfill: {fileID: 517609898}
   wallDamage: {fileID: 517609900}
-  _winManager: {fileID: 0}
+  _winManager: {fileID: 1056158618}
 --- !u!82 &517609900
 AudioSource:
   m_ObjectHideFlags: 0
