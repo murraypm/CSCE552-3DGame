@@ -1,11 +1,12 @@
 using System.Collections;
 using System.Collections.Generic;
+using UnityEditor.SearchService;
 using UnityEngine;
 
 public class EnemyManager : MonoBehaviour
 {
     public float speed = 1.0f;
-    public GameObject HPGui;
+    //public GameObject HPGui;
     public int health = 5;
     Transform nearestWall = null;
 
@@ -33,7 +34,7 @@ public class EnemyManager : MonoBehaviour
     {
         if (collision.gameObject.tag == "Wall")
         {
-            HPGui.GetComponent<wallHealth>().DamageWall(4);
+            GameObject.Find("HPGUI").GetComponent<wallHealth>().DamageWall(4);
             gameObject.GetComponent<Rigidbody>().AddForce(collision.GetContact(0).normal * 5, ForceMode.Impulse);
         }
     }

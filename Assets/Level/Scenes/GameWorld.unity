@@ -67762,7 +67762,6 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   speed: 1
-  HPGui: {fileID: 517609896}
   health: 5
 --- !u!23 &5806812542402891693
 MeshRenderer:
