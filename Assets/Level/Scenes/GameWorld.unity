@@ -1587,9 +1587,9 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 33523b3c15954934190b7c99674401e4, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  stoneCount: {fileID: 0}
-  _stone: {fileID: 0}
-  stone: {fileID: 0}
+  stoneCount: {fileID: 276650626}
+  _stone: {fileID: 276650628}
+  stone: {fileID: 349852261}
   durability: 3
 --- !u!1 &37929265
 GameObject:
@@ -3498,9 +3498,9 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 33523b3c15954934190b7c99674401e4, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  stoneCount: {fileID: 0}
-  _stone: {fileID: 0}
-  stone: {fileID: 0}
+  stoneCount: {fileID: 276650626}
+  _stone: {fileID: 276650628}
+  stone: {fileID: 418764099}
   durability: 3
 --- !u!1 &90182515
 GameObject:
@@ -4196,9 +4196,9 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 33523b3c15954934190b7c99674401e4, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  stoneCount: {fileID: 0}
-  _stone: {fileID: 0}
-  stone: {fileID: 0}
+  stoneCount: {fileID: 276650626}
+  _stone: {fileID: 276650628}
+  stone: {fileID: 601830983}
   durability: 3
 --- !u!1 &114845334
 GameObject:
@@ -5025,9 +5025,9 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 33523b3c15954934190b7c99674401e4, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  stoneCount: {fileID: 0}
-  _stone: {fileID: 0}
-  stone: {fileID: 0}
+  stoneCount: {fileID: 276650626}
+  _stone: {fileID: 276650628}
+  stone: {fileID: 1706213542}
   durability: 3
 --- !u!1 &141951035
 GameObject:
@@ -5714,9 +5714,9 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 33523b3c15954934190b7c99674401e4, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  stoneCount: {fileID: 0}
-  _stone: {fileID: 0}
-  stone: {fileID: 0}
+  stoneCount: {fileID: 276650626}
+  _stone: {fileID: 276650628}
+  stone: {fileID: 14069695}
   durability: 3
 --- !u!1 &174736967
 GameObject:
@@ -6337,104 +6337,8 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   stoneCount: {fileID: 276650626}
   _stone: {fileID: 276650628}
-  stone: {fileID: 0}
+  stone: {fileID: 1457428752}
   durability: 3
---- !u!82 &198209036
-AudioSource:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 198209027}
-  m_Enabled: 1
-  serializedVersion: 4
-  OutputAudioMixerGroup: {fileID: -1873799817901644241, guid: 76f4d2676a7ba914e99307349208a8c5, type: 2}
-  m_audioClip: {fileID: 8300000, guid: ba906ab8a1c15e346b876f26248ad78d, type: 3}
-  m_PlayOnAwake: 0
-  m_Volume: 1
-  m_Pitch: 1
-  Loop: 0
-  Mute: 0
-  Spatialize: 0
-  SpatializePostEffects: 0
-  Priority: 128
-  DopplerLevel: 1
-  MinDistance: 1
-  MaxDistance: 500
-  Pan2D: 0
-  rolloffMode: 0
-  BypassEffects: 0
-  BypassListenerEffects: 0
-  BypassReverbZones: 0
-  rolloffCustomCurve:
-    serializedVersion: 2
-    m_Curve:
-    - serializedVersion: 3
-      time: 0
-      value: 1
-      inSlope: 0
-      outSlope: 0
-      tangentMode: 0
-      weightedMode: 0
-      inWeight: 0.33333334
-      outWeight: 0.33333334
-    - serializedVersion: 3
-      time: 1
-      value: 0
-      inSlope: 0
-      outSlope: 0
-      tangentMode: 0
-      weightedMode: 0
-      inWeight: 0.33333334
-      outWeight: 0.33333334
-    m_PreInfinity: 2
-    m_PostInfinity: 2
-    m_RotationOrder: 4
-  panLevelCustomCurve:
-    serializedVersion: 2
-    m_Curve:
-    - serializedVersion: 3
-      time: 0
-      value: 0
-      inSlope: 0
-      outSlope: 0
-      tangentMode: 0
-      weightedMode: 0
-      inWeight: 0.33333334
-      outWeight: 0.33333334
-    m_PreInfinity: 2
-    m_PostInfinity: 2
-    m_RotationOrder: 4
-  spreadCustomCurve:
-    serializedVersion: 2
-    m_Curve:
-    - serializedVersion: 3
-      time: 0
-      value: 0
-      inSlope: 0
-      outSlope: 0
-      tangentMode: 0
-      weightedMode: 0
-      inWeight: 0.33333334
-      outWeight: 0.33333334
-    m_PreInfinity: 2
-    m_PostInfinity: 2
-    m_RotationOrder: 4
-  reverbZoneMixCustomCurve:
-    serializedVersion: 2
-    m_Curve:
-    - serializedVersion: 3
-      time: 0
-      value: 1
-      inSlope: 0
-      outSlope: 0
-      tangentMode: 0
-      weightedMode: 0
-      inWeight: 0.33333334
-      outWeight: 0.33333334
-    m_PreInfinity: 2
-    m_PostInfinity: 2
-    m_RotationOrder: 4
 --- !u!1 &198259706
 GameObject:
   m_ObjectHideFlags: 0
@@ -6690,9 +6594,9 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 33523b3c15954934190b7c99674401e4, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  stoneCount: {fileID: 0}
-  _stone: {fileID: 0}
-  stone: {fileID: 0}
+  stoneCount: {fileID: 276650626}
+  _stone: {fileID: 276650628}
+  stone: {fileID: 1381716110}
   durability: 3
 --- !u!1 &201972102
 GameObject:
@@ -7655,9 +7559,9 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 33523b3c15954934190b7c99674401e4, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  stoneCount: {fileID: 0}
-  _stone: {fileID: 0}
-  stone: {fileID: 0}
+  stoneCount: {fileID: 276650626}
+  _stone: {fileID: 276650628}
+  stone: {fileID: 1081176779}
   durability: 3
 --- !u!1 &221053473
 GameObject:
@@ -8496,9 +8400,9 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 33523b3c15954934190b7c99674401e4, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  stoneCount: {fileID: 0}
-  _stone: {fileID: 0}
-  stone: {fileID: 0}
+  stoneCount: {fileID: 276650626}
+  _stone: {fileID: 276650628}
+  stone: {fileID: 996354852}
   durability: 3
 --- !u!1 &238763230 stripped
 GameObject:
@@ -8765,9 +8669,9 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 33523b3c15954934190b7c99674401e4, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  stoneCount: {fileID: 0}
-  _stone: {fileID: 0}
-  stone: {fileID: 0}
+  stoneCount: {fileID: 276650626}
+  _stone: {fileID: 276650628}
+  stone: {fileID: 2081128688}
   durability: 3
 --- !u!1 &247657352
 GameObject:
@@ -9248,9 +9152,9 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 33523b3c15954934190b7c99674401e4, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  stoneCount: {fileID: 0}
-  _stone: {fileID: 0}
-  stone: {fileID: 0}
+  stoneCount: {fileID: 276650626}
+  _stone: {fileID: 276650628}
+  stone: {fileID: 64971011}
   durability: 3
 --- !u!1 &264549030
 GameObject:
@@ -10709,9 +10613,6 @@ PrefabInstance:
     - targetCorrespondingSourceObject: {fileID: 7463307759790608978, guid: 77b4d252a330fd94199e3a5b8bd78d4a, type: 3}
       insertIndex: -1
       addedObject: {fileID: 1531552110}
-    - targetCorrespondingSourceObject: {fileID: 7463307759790608978, guid: 77b4d252a330fd94199e3a5b8bd78d4a, type: 3}
-      insertIndex: -1
-      addedObject: {fileID: 1531552114}
   m_SourcePrefab: {fileID: 100100000, guid: 77b4d252a330fd94199e3a5b8bd78d4a, type: 3}
 --- !u!4 &289165238 stripped
 Transform:
@@ -13416,9 +13317,9 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 33523b3c15954934190b7c99674401e4, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  stoneCount: {fileID: 0}
-  _stone: {fileID: 0}
-  stone: {fileID: 0}
+  stoneCount: {fileID: 276650626}
+  _stone: {fileID: 276650628}
+  stone: {fileID: 803922949}
   durability: 3
 --- !u!65 &391336271
 BoxCollider:
@@ -13584,9 +13485,9 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 33523b3c15954934190b7c99674401e4, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  stoneCount: {fileID: 0}
-  _stone: {fileID: 0}
-  stone: {fileID: 0}
+  stoneCount: {fileID: 276650626}
+  _stone: {fileID: 276650628}
+  stone: {fileID: 366544900}
   durability: 3
 --- !u!1 &399521126 stripped
 GameObject:
@@ -13626,9 +13527,9 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 33523b3c15954934190b7c99674401e4, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  stoneCount: {fileID: 0}
-  _stone: {fileID: 0}
-  stone: {fileID: 0}
+  stoneCount: {fileID: 276650626}
+  _stone: {fileID: 276650628}
+  stone: {fileID: 1146784650}
   durability: 3
 --- !u!1 &400403431
 GameObject:
@@ -14684,9 +14585,9 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 33523b3c15954934190b7c99674401e4, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  stoneCount: {fileID: 0}
-  _stone: {fileID: 0}
-  stone: {fileID: 0}
+  stoneCount: {fileID: 276650626}
+  _stone: {fileID: 276650628}
+  stone: {fileID: 1922583744}
   durability: 3
 --- !u!1001 &427358379
 PrefabInstance:
@@ -16002,9 +15903,9 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 33523b3c15954934190b7c99674401e4, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  stoneCount: {fileID: 0}
-  _stone: {fileID: 0}
-  stone: {fileID: 0}
+  stoneCount: {fileID: 276650626}
+  _stone: {fileID: 276650628}
+  stone: {fileID: 441790039}
   durability: 3
 --- !u!1 &467196530
 GameObject:
@@ -18085,9 +17986,9 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 33523b3c15954934190b7c99674401e4, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  stoneCount: {fileID: 0}
-  _stone: {fileID: 0}
-  stone: {fileID: 0}
+  stoneCount: {fileID: 276650626}
+  _stone: {fileID: 276650628}
+  stone: {fileID: 1184339717}
   durability: 3
 --- !u!1 &543133371
 GameObject:
@@ -19030,9 +18931,9 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 33523b3c15954934190b7c99674401e4, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  stoneCount: {fileID: 0}
-  _stone: {fileID: 0}
-  stone: {fileID: 0}
+  stoneCount: {fileID: 276650626}
+  _stone: {fileID: 276650628}
+  stone: {fileID: 125490952}
   durability: 3
 --- !u!1 &585122824 stripped
 GameObject:
@@ -19197,9 +19098,6 @@ PrefabInstance:
     - targetCorrespondingSourceObject: {fileID: 7463307759790608978, guid: 77b4d252a330fd94199e3a5b8bd78d4a, type: 3}
       insertIndex: -1
       addedObject: {fileID: 1406277037}
-    - targetCorrespondingSourceObject: {fileID: 7463307759790608978, guid: 77b4d252a330fd94199e3a5b8bd78d4a, type: 3}
-      insertIndex: -1
-      addedObject: {fileID: 1406277041}
   m_SourcePrefab: {fileID: 100100000, guid: 77b4d252a330fd94199e3a5b8bd78d4a, type: 3}
 --- !u!4 &589601872 stripped
 Transform:
@@ -20897,9 +20795,9 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 33523b3c15954934190b7c99674401e4, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  stoneCount: {fileID: 0}
-  _stone: {fileID: 0}
-  stone: {fileID: 0}
+  stoneCount: {fileID: 276650626}
+  _stone: {fileID: 276650628}
+  stone: {fileID: 610489782}
   durability: 3
 --- !u!1 &631790518
 GameObject:
@@ -21679,9 +21577,9 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 33523b3c15954934190b7c99674401e4, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  stoneCount: {fileID: 0}
-  _stone: {fileID: 0}
-  stone: {fileID: 0}
+  stoneCount: {fileID: 276650626}
+  _stone: {fileID: 276650628}
+  stone: {fileID: 1198765728}
   durability: 3
 --- !u!1 &676845355 stripped
 GameObject:
@@ -23368,102 +23266,6 @@ MonoBehaviour:
   _stone: {fileID: 276650628}
   stone: {fileID: 1270833577}
   durability: 3
---- !u!82 &750068058
-AudioSource:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 750068049}
-  m_Enabled: 1
-  serializedVersion: 4
-  OutputAudioMixerGroup: {fileID: -1873799817901644241, guid: 76f4d2676a7ba914e99307349208a8c5, type: 2}
-  m_audioClip: {fileID: 8300000, guid: ba906ab8a1c15e346b876f26248ad78d, type: 3}
-  m_PlayOnAwake: 0
-  m_Volume: 1
-  m_Pitch: 1
-  Loop: 0
-  Mute: 0
-  Spatialize: 0
-  SpatializePostEffects: 0
-  Priority: 128
-  DopplerLevel: 1
-  MinDistance: 1
-  MaxDistance: 500
-  Pan2D: 0
-  rolloffMode: 0
-  BypassEffects: 0
-  BypassListenerEffects: 0
-  BypassReverbZones: 0
-  rolloffCustomCurve:
-    serializedVersion: 2
-    m_Curve:
-    - serializedVersion: 3
-      time: 0
-      value: 1
-      inSlope: 0
-      outSlope: 0
-      tangentMode: 0
-      weightedMode: 0
-      inWeight: 0.33333334
-      outWeight: 0.33333334
-    - serializedVersion: 3
-      time: 1
-      value: 0
-      inSlope: 0
-      outSlope: 0
-      tangentMode: 0
-      weightedMode: 0
-      inWeight: 0.33333334
-      outWeight: 0.33333334
-    m_PreInfinity: 2
-    m_PostInfinity: 2
-    m_RotationOrder: 4
-  panLevelCustomCurve:
-    serializedVersion: 2
-    m_Curve:
-    - serializedVersion: 3
-      time: 0
-      value: 0
-      inSlope: 0
-      outSlope: 0
-      tangentMode: 0
-      weightedMode: 0
-      inWeight: 0.33333334
-      outWeight: 0.33333334
-    m_PreInfinity: 2
-    m_PostInfinity: 2
-    m_RotationOrder: 4
-  spreadCustomCurve:
-    serializedVersion: 2
-    m_Curve:
-    - serializedVersion: 3
-      time: 0
-      value: 0
-      inSlope: 0
-      outSlope: 0
-      tangentMode: 0
-      weightedMode: 0
-      inWeight: 0.33333334
-      outWeight: 0.33333334
-    m_PreInfinity: 2
-    m_PostInfinity: 2
-    m_RotationOrder: 4
-  reverbZoneMixCustomCurve:
-    serializedVersion: 2
-    m_Curve:
-    - serializedVersion: 3
-      time: 0
-      value: 1
-      inSlope: 0
-      outSlope: 0
-      tangentMode: 0
-      weightedMode: 0
-      inWeight: 0.33333334
-      outWeight: 0.33333334
-    m_PreInfinity: 2
-    m_PostInfinity: 2
-    m_RotationOrder: 4
 --- !u!1 &753792549 stripped
 GameObject:
   m_CorrespondingSourceObject: {fileID: 7463307759790608978, guid: 77b4d252a330fd94199e3a5b8bd78d4a, type: 3}
@@ -23502,9 +23304,9 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 33523b3c15954934190b7c99674401e4, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  stoneCount: {fileID: 0}
-  _stone: {fileID: 0}
-  stone: {fileID: 0}
+  stoneCount: {fileID: 276650626}
+  _stone: {fileID: 276650628}
+  stone: {fileID: 999634337}
   durability: 3
 --- !u!1 &754984583
 GameObject:
@@ -24716,9 +24518,9 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 33523b3c15954934190b7c99674401e4, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  stoneCount: {fileID: 0}
-  _stone: {fileID: 0}
-  stone: {fileID: 0}
+  stoneCount: {fileID: 276650626}
+  _stone: {fileID: 276650628}
+  stone: {fileID: 238763230}
   durability: 3
 --- !u!1 &799673426
 GameObject:
@@ -24977,9 +24779,9 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 33523b3c15954934190b7c99674401e4, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  stoneCount: {fileID: 0}
-  _stone: {fileID: 0}
-  stone: {fileID: 0}
+  stoneCount: {fileID: 276650626}
+  _stone: {fileID: 276650628}
+  stone: {fileID: 1859341660}
   durability: 3
 --- !u!1 &803922949 stripped
 GameObject:
@@ -27306,9 +27108,9 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 33523b3c15954934190b7c99674401e4, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  stoneCount: {fileID: 0}
-  _stone: {fileID: 0}
-  stone: {fileID: 0}
+  stoneCount: {fileID: 276650626}
+  _stone: {fileID: 276650628}
+  stone: {fileID: 991831118}
   durability: 3
 --- !u!1 &858225126
 GameObject:
@@ -32614,9 +32416,9 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 33523b3c15954934190b7c99674401e4, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  stoneCount: {fileID: 0}
-  _stone: {fileID: 0}
-  stone: {fileID: 0}
+  stoneCount: {fileID: 276650626}
+  _stone: {fileID: 276650628}
+  stone: {fileID: 1531269659}
   durability: 3
 --- !u!1 &1008326524
 GameObject:
@@ -33496,9 +33298,9 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 33523b3c15954934190b7c99674401e4, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  stoneCount: {fileID: 0}
-  _stone: {fileID: 0}
-  stone: {fileID: 0}
+  stoneCount: {fileID: 276650626}
+  _stone: {fileID: 276650628}
+  stone: {fileID: 743626824}
   durability: 3
 --- !u!1 &1025328630
 GameObject:
@@ -35482,9 +35284,9 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 33523b3c15954934190b7c99674401e4, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  stoneCount: {fileID: 0}
-  _stone: {fileID: 0}
-  stone: {fileID: 0}
+  stoneCount: {fileID: 276650626}
+  _stone: {fileID: 276650628}
+  stone: {fileID: 1862092192}
   durability: 3
 --- !u!1 &1071080802
 GameObject:
@@ -35668,9 +35470,9 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 33523b3c15954934190b7c99674401e4, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  stoneCount: {fileID: 0}
-  _stone: {fileID: 0}
-  stone: {fileID: 0}
+  stoneCount: {fileID: 276650626}
+  _stone: {fileID: 276650628}
+  stone: {fileID: 693803396}
   durability: 3
 --- !u!1 &1075294973
 GameObject:
@@ -36308,9 +36110,9 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 33523b3c15954934190b7c99674401e4, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  stoneCount: {fileID: 0}
-  _stone: {fileID: 0}
-  stone: {fileID: 0}
+  stoneCount: {fileID: 276650626}
+  _stone: {fileID: 276650628}
+  stone: {fileID: 1578096306}
   durability: 3
 --- !u!1 &1092198407 stripped
 GameObject:
@@ -38607,9 +38409,9 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 33523b3c15954934190b7c99674401e4, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  stoneCount: {fileID: 0}
-  _stone: {fileID: 0}
-  stone: {fileID: 0}
+  stoneCount: {fileID: 276650626}
+  _stone: {fileID: 276650628}
+  stone: {fileID: 1424771353}
   durability: 3
 --- !u!1 &1146784650 stripped
 GameObject:
@@ -39969,9 +39771,9 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 33523b3c15954934190b7c99674401e4, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  stoneCount: {fileID: 0}
-  _stone: {fileID: 0}
-  stone: {fileID: 0}
+  stoneCount: {fileID: 276650626}
+  _stone: {fileID: 276650628}
+  stone: {fileID: 482446524}
   durability: 3
 --- !u!1 &1214257776
 GameObject:
@@ -40426,9 +40228,9 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 33523b3c15954934190b7c99674401e4, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  stoneCount: {fileID: 0}
-  _stone: {fileID: 0}
-  stone: {fileID: 0}
+  stoneCount: {fileID: 276650626}
+  _stone: {fileID: 276650628}
+  stone: {fileID: 1998305690}
   durability: 3
 --- !u!1 &1226446759
 GameObject:
@@ -41037,9 +40839,9 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 33523b3c15954934190b7c99674401e4, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  stoneCount: {fileID: 0}
-  _stone: {fileID: 0}
-  stone: {fileID: 0}
+  stoneCount: {fileID: 276650626}
+  _stone: {fileID: 276650628}
+  stone: {fileID: 1435611181}
   durability: 3
 --- !u!1 &1243159119
 GameObject:
@@ -42041,9 +41843,9 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 33523b3c15954934190b7c99674401e4, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  stoneCount: {fileID: 0}
-  _stone: {fileID: 0}
-  stone: {fileID: 0}
+  stoneCount: {fileID: 276650626}
+  _stone: {fileID: 276650628}
+  stone: {fileID: 1044259076}
   durability: 3
 --- !u!1001 &1263468584
 PrefabInstance:
@@ -42700,9 +42502,9 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 33523b3c15954934190b7c99674401e4, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  stoneCount: {fileID: 0}
-  _stone: {fileID: 0}
-  stone: {fileID: 0}
+  stoneCount: {fileID: 276650626}
+  _stone: {fileID: 276650628}
+  stone: {fileID: 1525267267}
   durability: 3
 --- !u!1 &1280291050
 GameObject:
@@ -43171,9 +42973,9 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 33523b3c15954934190b7c99674401e4, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  stoneCount: {fileID: 0}
-  _stone: {fileID: 0}
-  stone: {fileID: 0}
+  stoneCount: {fileID: 276650626}
+  _stone: {fileID: 276650628}
+  stone: {fileID: 807943104}
   durability: 3
 --- !u!1 &1291494175 stripped
 GameObject:
@@ -43213,9 +43015,9 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 33523b3c15954934190b7c99674401e4, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  stoneCount: {fileID: 0}
-  _stone: {fileID: 0}
-  stone: {fileID: 0}
+  stoneCount: {fileID: 276650626}
+  _stone: {fileID: 276650628}
+  stone: {fileID: 1967636265}
   durability: 3
 --- !u!1001 &1292819601
 PrefabInstance:
@@ -43732,9 +43534,9 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 33523b3c15954934190b7c99674401e4, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  stoneCount: {fileID: 0}
-  _stone: {fileID: 0}
-  stone: {fileID: 0}
+  stoneCount: {fileID: 276650626}
+  _stone: {fileID: 276650628}
+  stone: {fileID: 472789907}
   durability: 3
 --- !u!1001 &1306953583
 PrefabInstance:
@@ -45208,9 +45010,6 @@ PrefabInstance:
     - targetCorrespondingSourceObject: {fileID: 7463307759790608978, guid: 77b4d252a330fd94199e3a5b8bd78d4a, type: 3}
       insertIndex: -1
       addedObject: {fileID: 1403026073}
-    - targetCorrespondingSourceObject: {fileID: 7463307759790608978, guid: 77b4d252a330fd94199e3a5b8bd78d4a, type: 3}
-      insertIndex: -1
-      addedObject: {fileID: 1403026077}
   m_SourcePrefab: {fileID: 100100000, guid: 77b4d252a330fd94199e3a5b8bd78d4a, type: 3}
 --- !u!4 &1352019578 stripped
 Transform:
@@ -45255,9 +45054,9 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 33523b3c15954934190b7c99674401e4, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  stoneCount: {fileID: 0}
-  _stone: {fileID: 0}
-  stone: {fileID: 0}
+  stoneCount: {fileID: 276650626}
+  _stone: {fileID: 276650628}
+  stone: {fileID: 1938594747}
   durability: 3
 --- !u!1 &1357304533
 GameObject:
@@ -45522,9 +45321,9 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 33523b3c15954934190b7c99674401e4, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  stoneCount: {fileID: 0}
-  _stone: {fileID: 0}
-  stone: {fileID: 0}
+  stoneCount: {fileID: 276650626}
+  _stone: {fileID: 276650628}
+  stone: {fileID: 441395140}
   durability: 3
 --- !u!1 &1381523115
 GameObject:
@@ -45641,9 +45440,6 @@ PrefabInstance:
     - targetCorrespondingSourceObject: {fileID: 7463307759790608978, guid: 77b4d252a330fd94199e3a5b8bd78d4a, type: 3}
       insertIndex: -1
       addedObject: {fileID: 198209032}
-    - targetCorrespondingSourceObject: {fileID: 7463307759790608978, guid: 77b4d252a330fd94199e3a5b8bd78d4a, type: 3}
-      insertIndex: -1
-      addedObject: {fileID: 198209036}
   m_SourcePrefab: {fileID: 100100000, guid: 77b4d252a330fd94199e3a5b8bd78d4a, type: 3}
 --- !u!4 &1384201122 stripped
 Transform:
@@ -46459,102 +46255,6 @@ MonoBehaviour:
   _stone: {fileID: 276650628}
   stone: {fileID: 2007370268}
   durability: 3
---- !u!82 &1403026077
-AudioSource:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 1403026068}
-  m_Enabled: 1
-  serializedVersion: 4
-  OutputAudioMixerGroup: {fileID: -1873799817901644241, guid: 76f4d2676a7ba914e99307349208a8c5, type: 2}
-  m_audioClip: {fileID: 8300000, guid: ba906ab8a1c15e346b876f26248ad78d, type: 3}
-  m_PlayOnAwake: 0
-  m_Volume: 1
-  m_Pitch: 1
-  Loop: 0
-  Mute: 0
-  Spatialize: 0
-  SpatializePostEffects: 0
-  Priority: 128
-  DopplerLevel: 1
-  MinDistance: 1
-  MaxDistance: 500
-  Pan2D: 0
-  rolloffMode: 0
-  BypassEffects: 0
-  BypassListenerEffects: 0
-  BypassReverbZones: 0
-  rolloffCustomCurve:
-    serializedVersion: 2
-    m_Curve:
-    - serializedVersion: 3
-      time: 0
-      value: 1
-      inSlope: 0
-      outSlope: 0
-      tangentMode: 0
-      weightedMode: 0
-      inWeight: 0.33333334
-      outWeight: 0.33333334
-    - serializedVersion: 3
-      time: 1
-      value: 0
-      inSlope: 0
-      outSlope: 0
-      tangentMode: 0
-      weightedMode: 0
-      inWeight: 0.33333334
-      outWeight: 0.33333334
-    m_PreInfinity: 2
-    m_PostInfinity: 2
-    m_RotationOrder: 4
-  panLevelCustomCurve:
-    serializedVersion: 2
-    m_Curve:
-    - serializedVersion: 3
-      time: 0
-      value: 0
-      inSlope: 0
-      outSlope: 0
-      tangentMode: 0
-      weightedMode: 0
-      inWeight: 0.33333334
-      outWeight: 0.33333334
-    m_PreInfinity: 2
-    m_PostInfinity: 2
-    m_RotationOrder: 4
-  spreadCustomCurve:
-    serializedVersion: 2
-    m_Curve:
-    - serializedVersion: 3
-      time: 0
-      value: 0
-      inSlope: 0
-      outSlope: 0
-      tangentMode: 0
-      weightedMode: 0
-      inWeight: 0.33333334
-      outWeight: 0.33333334
-    m_PreInfinity: 2
-    m_PostInfinity: 2
-    m_RotationOrder: 4
-  reverbZoneMixCustomCurve:
-    serializedVersion: 2
-    m_Curve:
-    - serializedVersion: 3
-      time: 0
-      value: 1
-      inSlope: 0
-      outSlope: 0
-      tangentMode: 0
-      weightedMode: 0
-      inWeight: 0.33333334
-      outWeight: 0.33333334
-    m_PreInfinity: 2
-    m_PostInfinity: 2
-    m_RotationOrder: 4
 --- !u!1 &1403163154 stripped
 GameObject:
   m_CorrespondingSourceObject: {fileID: 7463307759790608978, guid: 77b4d252a330fd94199e3a5b8bd78d4a, type: 3}
@@ -46593,9 +46293,9 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 33523b3c15954934190b7c99674401e4, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  stoneCount: {fileID: 0}
-  _stone: {fileID: 0}
-  stone: {fileID: 0}
+  stoneCount: {fileID: 276650626}
+  _stone: {fileID: 276650628}
+  stone: {fileID: 891865234}
   durability: 3
 --- !u!1 &1406277032 stripped
 GameObject:
@@ -46639,102 +46339,6 @@ MonoBehaviour:
   _stone: {fileID: 276650628}
   stone: {fileID: 459803417}
   durability: 3
---- !u!82 &1406277041
-AudioSource:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 1406277032}
-  m_Enabled: 1
-  serializedVersion: 4
-  OutputAudioMixerGroup: {fileID: -1873799817901644241, guid: 76f4d2676a7ba914e99307349208a8c5, type: 2}
-  m_audioClip: {fileID: 8300000, guid: ba906ab8a1c15e346b876f26248ad78d, type: 3}
-  m_PlayOnAwake: 0
-  m_Volume: 1
-  m_Pitch: 1
-  Loop: 0
-  Mute: 0
-  Spatialize: 0
-  SpatializePostEffects: 0
-  Priority: 128
-  DopplerLevel: 1
-  MinDistance: 1
-  MaxDistance: 500
-  Pan2D: 0
-  rolloffMode: 0
-  BypassEffects: 0
-  BypassListenerEffects: 0
-  BypassReverbZones: 0
-  rolloffCustomCurve:
-    serializedVersion: 2
-    m_Curve:
-    - serializedVersion: 3
-      time: 0
-      value: 1
-      inSlope: 0
-      outSlope: 0
-      tangentMode: 0
-      weightedMode: 0
-      inWeight: 0.33333334
-      outWeight: 0.33333334
-    - serializedVersion: 3
-      time: 1
-      value: 0
-      inSlope: 0
-      outSlope: 0
-      tangentMode: 0
-      weightedMode: 0
-      inWeight: 0.33333334
-      outWeight: 0.33333334
-    m_PreInfinity: 2
-    m_PostInfinity: 2
-    m_RotationOrder: 4
-  panLevelCustomCurve:
-    serializedVersion: 2
-    m_Curve:
-    - serializedVersion: 3
-      time: 0
-      value: 0
-      inSlope: 0
-      outSlope: 0
-      tangentMode: 0
-      weightedMode: 0
-      inWeight: 0.33333334
-      outWeight: 0.33333334
-    m_PreInfinity: 2
-    m_PostInfinity: 2
-    m_RotationOrder: 4
-  spreadCustomCurve:
-    serializedVersion: 2
-    m_Curve:
-    - serializedVersion: 3
-      time: 0
-      value: 0
-      inSlope: 0
-      outSlope: 0
-      tangentMode: 0
-      weightedMode: 0
-      inWeight: 0.33333334
-      outWeight: 0.33333334
-    m_PreInfinity: 2
-    m_PostInfinity: 2
-    m_RotationOrder: 4
-  reverbZoneMixCustomCurve:
-    serializedVersion: 2
-    m_Curve:
-    - serializedVersion: 3
-      time: 0
-      value: 1
-      inSlope: 0
-      outSlope: 0
-      tangentMode: 0
-      weightedMode: 0
-      inWeight: 0.33333334
-      outWeight: 0.33333334
-    m_PreInfinity: 2
-    m_PostInfinity: 2
-    m_RotationOrder: 4
 --- !u!1001 &1406761323
 PrefabInstance:
   m_ObjectHideFlags: 0
@@ -49523,9 +49127,9 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 33523b3c15954934190b7c99674401e4, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  stoneCount: {fileID: 0}
-  _stone: {fileID: 0}
-  stone: {fileID: 0}
+  stoneCount: {fileID: 276650626}
+  _stone: {fileID: 276650628}
+  stone: {fileID: 199730636}
   durability: 3
 --- !u!1 &1503295177 stripped
 GameObject:
@@ -50340,102 +49944,6 @@ MonoBehaviour:
   _stone: {fileID: 276650628}
   stone: {fileID: 676845355}
   durability: 3
---- !u!82 &1531552114
-AudioSource:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 1531552105}
-  m_Enabled: 1
-  serializedVersion: 4
-  OutputAudioMixerGroup: {fileID: -1873799817901644241, guid: 76f4d2676a7ba914e99307349208a8c5, type: 2}
-  m_audioClip: {fileID: 8300000, guid: ba906ab8a1c15e346b876f26248ad78d, type: 3}
-  m_PlayOnAwake: 0
-  m_Volume: 1
-  m_Pitch: 1
-  Loop: 0
-  Mute: 0
-  Spatialize: 0
-  SpatializePostEffects: 0
-  Priority: 128
-  DopplerLevel: 1
-  MinDistance: 1
-  MaxDistance: 500
-  Pan2D: 0
-  rolloffMode: 0
-  BypassEffects: 0
-  BypassListenerEffects: 0
-  BypassReverbZones: 0
-  rolloffCustomCurve:
-    serializedVersion: 2
-    m_Curve:
-    - serializedVersion: 3
-      time: 0
-      value: 1
-      inSlope: 0
-      outSlope: 0
-      tangentMode: 0
-      weightedMode: 0
-      inWeight: 0.33333334
-      outWeight: 0.33333334
-    - serializedVersion: 3
-      time: 1
-      value: 0
-      inSlope: 0
-      outSlope: 0
-      tangentMode: 0
-      weightedMode: 0
-      inWeight: 0.33333334
-      outWeight: 0.33333334
-    m_PreInfinity: 2
-    m_PostInfinity: 2
-    m_RotationOrder: 4
-  panLevelCustomCurve:
-    serializedVersion: 2
-    m_Curve:
-    - serializedVersion: 3
-      time: 0
-      value: 0
-      inSlope: 0
-      outSlope: 0
-      tangentMode: 0
-      weightedMode: 0
-      inWeight: 0.33333334
-      outWeight: 0.33333334
-    m_PreInfinity: 2
-    m_PostInfinity: 2
-    m_RotationOrder: 4
-  spreadCustomCurve:
-    serializedVersion: 2
-    m_Curve:
-    - serializedVersion: 3
-      time: 0
-      value: 0
-      inSlope: 0
-      outSlope: 0
-      tangentMode: 0
-      weightedMode: 0
-      inWeight: 0.33333334
-      outWeight: 0.33333334
-    m_PreInfinity: 2
-    m_PostInfinity: 2
-    m_RotationOrder: 4
-  reverbZoneMixCustomCurve:
-    serializedVersion: 2
-    m_Curve:
-    - serializedVersion: 3
-      time: 0
-      value: 1
-      inSlope: 0
-      outSlope: 0
-      tangentMode: 0
-      weightedMode: 0
-      inWeight: 0.33333334
-      outWeight: 0.33333334
-    m_PreInfinity: 2
-    m_PostInfinity: 2
-    m_RotationOrder: 4
 --- !u!1 &1533161973
 GameObject:
   m_ObjectHideFlags: 0
@@ -51245,9 +50753,9 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 33523b3c15954934190b7c99674401e4, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  stoneCount: {fileID: 0}
-  _stone: {fileID: 0}
-  stone: {fileID: 0}
+  stoneCount: {fileID: 276650626}
+  _stone: {fileID: 276650628}
+  stone: {fileID: 1727550225}
   durability: 3
 --- !u!1001 &1559567290
 PrefabInstance:
@@ -52267,9 +51775,9 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 33523b3c15954934190b7c99674401e4, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  stoneCount: {fileID: 0}
-  _stone: {fileID: 0}
-  stone: {fileID: 0}
+  stoneCount: {fileID: 276650626}
+  _stone: {fileID: 276650628}
+  stone: {fileID: 524795839}
   durability: 3
 --- !u!1 &1593182427
 GameObject:
@@ -53918,9 +53426,6 @@ PrefabInstance:
     - targetCorrespondingSourceObject: {fileID: 7463307759790608978, guid: 77b4d252a330fd94199e3a5b8bd78d4a, type: 3}
       insertIndex: -1
       addedObject: {fileID: 750068054}
-    - targetCorrespondingSourceObject: {fileID: 7463307759790608978, guid: 77b4d252a330fd94199e3a5b8bd78d4a, type: 3}
-      insertIndex: -1
-      addedObject: {fileID: 750068058}
   m_SourcePrefab: {fileID: 100100000, guid: 77b4d252a330fd94199e3a5b8bd78d4a, type: 3}
 --- !u!4 &1635532698 stripped
 Transform:
@@ -58084,9 +57589,9 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 33523b3c15954934190b7c99674401e4, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  stoneCount: {fileID: 0}
-  _stone: {fileID: 0}
-  stone: {fileID: 0}
+  stoneCount: {fileID: 276650626}
+  _stone: {fileID: 276650628}
+  stone: {fileID: 774890808}
   durability: 3
 --- !u!1 &1781933020
 GameObject:
@@ -60703,9 +60208,9 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 33523b3c15954934190b7c99674401e4, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  stoneCount: {fileID: 0}
-  _stone: {fileID: 0}
-  stone: {fileID: 0}
+  stoneCount: {fileID: 276650626}
+  _stone: {fileID: 276650628}
+  stone: {fileID: 267741339}
   durability: 3
 --- !u!1 &1892734064 stripped
 GameObject:
@@ -61373,9 +60878,9 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 33523b3c15954934190b7c99674401e4, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  stoneCount: {fileID: 0}
-  _stone: {fileID: 0}
-  stone: {fileID: 0}
+  stoneCount: {fileID: 276650626}
+  _stone: {fileID: 276650628}
+  stone: {fileID: 966068822}
   durability: 3
 --- !u!1 &1928626577 stripped
 GameObject:
@@ -61493,9 +60998,9 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 33523b3c15954934190b7c99674401e4, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  stoneCount: {fileID: 0}
-  _stone: {fileID: 0}
-  stone: {fileID: 0}
+  stoneCount: {fileID: 276650626}
+  _stone: {fileID: 276650628}
+  stone: {fileID: 618705933}
   durability: 3
 --- !u!1 &1937107893
 GameObject:
@@ -62341,9 +61846,9 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 33523b3c15954934190b7c99674401e4, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  stoneCount: {fileID: 0}
-  _stone: {fileID: 0}
-  stone: {fileID: 0}
+  stoneCount: {fileID: 276650626}
+  _stone: {fileID: 276650628}
+  stone: {fileID: 758029614}
   durability: 3
 --- !u!1 &1982421257
 GameObject:
@@ -67254,9 +66759,9 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 33523b3c15954934190b7c99674401e4, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  stoneCount: {fileID: 0}
-  _stone: {fileID: 0}
-  stone: {fileID: 0}
+  stoneCount: {fileID: 276650626}
+  _stone: {fileID: 276650628}
+  stone: {fileID: 805569336}
   durability: 3
 --- !u!1 &2127073886
 GameObject:
@@ -67402,9 +66907,9 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 33523b3c15954934190b7c99674401e4, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  stoneCount: {fileID: 0}
-  _stone: {fileID: 0}
-  stone: {fileID: 0}
+  stoneCount: {fileID: 276650626}
+  _stone: {fileID: 276650628}
+  stone: {fileID: 683396291}
   durability: 3
 --- !u!1001 &2129942321
 PrefabInstance:
