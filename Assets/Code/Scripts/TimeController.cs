@@ -25,10 +25,14 @@ public class TimeController : MonoBehaviour
     private TextMeshProUGUI dayGUI;
     private int startDay = 0;
 
+    private string prevTime;
+    private string currTime;
+
     // Start is called before the first frame update
     void Start()
     {
         //fix this a little bit more
+        prevTime = "00:00";
         time = DateTime.Now.Date + TimeSpan.FromHours(startTime);
     }
 
@@ -42,10 +46,29 @@ public class TimeController : MonoBehaviour
     private void UpdateTime()
     {
         time = time.AddSeconds(Time.deltaTime * timeMult);
-        Debug.Log(time);
         if(timeGUI != null)
         {
-            timeGUI.text = time.ToString("HH:mm");
+            currTime = time.ToString("HH:mm");
+            timeGUI.text = currTime;
+        }
+        if(prevTime != currTime)
+        {
+            prevTime = currTime;
+            if(currTime == "19:00")
+            {
+                //spawn wave
+                //spawn resources
+            }
+            if(currTime == "00:00")
+            {
+                startDay++;
+                dayGUI.text = "Day " + startDay.ToString();
+                if(startDay == 5)
+                {
+                    //win screen
+                    //victory sound
+                }
+            }
         }
     }
 
