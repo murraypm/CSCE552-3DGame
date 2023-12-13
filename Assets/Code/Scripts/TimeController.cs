@@ -37,12 +37,12 @@ public class TimeController : MonoBehaviour
     {
         UpdateTime();
         UpdateWheel();
-        //Invoke("UpdateDay", 1);
     }
 
     private void UpdateTime()
     {
         time = time.AddSeconds(Time.deltaTime * timeMult);
+        Debug.Log(time);
         if(timeGUI != null)
         {
             timeGUI.text = time.ToString("HH:mm");
@@ -52,15 +52,5 @@ public class TimeController : MonoBehaviour
     private void UpdateWheel()
     {
         wheel.transform.Rotate(0f, 0f, 1f * Time.deltaTime, Space.Self);
-    }
-
-    private void UpdateDay()
-    {
-        dayGUI.text = "Day " + startDay++;
-        /*Debug.Log("Hello!");
-        if (timeGUI.text == "00:00")
-        {
-            dayGUI.text = "Day " + startDay++;
-        }*/
     }
 }
