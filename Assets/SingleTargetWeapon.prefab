@@ -16,7 +16,7 @@ GameObject:
   - component: {fileID: 8713136248739443952}
   m_Layer: 0
   m_Name: SingleTargetWeapon
-  m_TagString: Untagged
+  m_TagString: Weapon
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -121,7 +121,6 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   attackCoolDown: 0.1
   attackDamage: 10
-  lineRenderer: {fileID: 0}
 --- !u!135 &8713136248739443952
 SphereCollider:
   m_ObjectHideFlags: 0
