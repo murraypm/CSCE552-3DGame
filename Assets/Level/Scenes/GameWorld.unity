@@ -3373,7 +3373,7 @@ PrefabInstance:
       addedObject: {fileID: 1329538880}
     - targetCorrespondingSourceObject: {fileID: 919132149155446097, guid: 4dfa587b99012f241bedf1d9f8e97884, type: 3}
       insertIndex: -1
-      addedObject: {fileID: 1329538879}
+      addedObject: {fileID: 1329538883}
   m_SourcePrefab: {fileID: 100100000, guid: 4dfa587b99012f241bedf1d9f8e97884, type: 3}
 --- !u!4 &82343165 stripped
 Transform:
@@ -3931,7 +3931,7 @@ PrefabInstance:
       addedObject: {fileID: 987568402}
     - targetCorrespondingSourceObject: {fileID: 919132149155446097, guid: 4dfa587b99012f241bedf1d9f8e97884, type: 3}
       insertIndex: -1
-      addedObject: {fileID: 987568401}
+      addedObject: {fileID: 987568405}
   m_SourcePrefab: {fileID: 100100000, guid: 4dfa587b99012f241bedf1d9f8e97884, type: 3}
 --- !u!4 &103696897 stripped
 Transform:
@@ -4384,7 +4384,7 @@ PrefabInstance:
       addedObject: {fileID: 1503295181}
     - targetCorrespondingSourceObject: {fileID: 919132149155446097, guid: 4dfa587b99012f241bedf1d9f8e97884, type: 3}
       insertIndex: -1
-      addedObject: {fileID: 1503295180}
+      addedObject: {fileID: 1503295184}
   m_SourcePrefab: {fileID: 100100000, guid: 4dfa587b99012f241bedf1d9f8e97884, type: 3}
 --- !u!4 &120309062 stripped
 Transform:
@@ -4544,7 +4544,7 @@ PrefabInstance:
       addedObject: {fileID: 1928626581}
     - targetCorrespondingSourceObject: {fileID: 919132149155446097, guid: 4dfa587b99012f241bedf1d9f8e97884, type: 3}
       insertIndex: -1
-      addedObject: {fileID: 1928626580}
+      addedObject: {fileID: 1928626584}
   m_SourcePrefab: {fileID: 100100000, guid: 4dfa587b99012f241bedf1d9f8e97884, type: 3}
 --- !u!4 &125376484 stripped
 Transform:
@@ -5208,7 +5208,7 @@ PrefabInstance:
       addedObject: {fileID: 1699287749}
     - targetCorrespondingSourceObject: {fileID: 919132149155446097, guid: 4dfa587b99012f241bedf1d9f8e97884, type: 3}
       insertIndex: -1
-      addedObject: {fileID: 1699287748}
+      addedObject: {fileID: 1699287752}
   m_SourcePrefab: {fileID: 100100000, guid: 4dfa587b99012f241bedf1d9f8e97884, type: 3}
 --- !u!4 &147548919 stripped
 Transform:
@@ -8890,7 +8890,7 @@ PrefabInstance:
       addedObject: {fileID: 964975731}
     - targetCorrespondingSourceObject: {fileID: 919132149155446097, guid: 4dfa587b99012f241bedf1d9f8e97884, type: 3}
       insertIndex: -1
-      addedObject: {fileID: 964975730}
+      addedObject: {fileID: 964975734}
   m_SourcePrefab: {fileID: 100100000, guid: 4dfa587b99012f241bedf1d9f8e97884, type: 3}
 --- !u!4 &254463521 stripped
 Transform:
@@ -10798,7 +10798,7 @@ PrefabInstance:
       addedObject: {fileID: 585122828}
     - targetCorrespondingSourceObject: {fileID: 919132149155446097, guid: 4dfa587b99012f241bedf1d9f8e97884, type: 3}
       insertIndex: -1
-      addedObject: {fileID: 585122827}
+      addedObject: {fileID: 585122831}
   m_SourcePrefab: {fileID: 100100000, guid: 4dfa587b99012f241bedf1d9f8e97884, type: 3}
 --- !u!4 &293527858 stripped
 Transform:
@@ -11329,7 +11329,7 @@ PrefabInstance:
       addedObject: {fileID: 417976127}
     - targetCorrespondingSourceObject: {fileID: 919132149155446097, guid: 4dfa587b99012f241bedf1d9f8e97884, type: 3}
       insertIndex: -1
-      addedObject: {fileID: 417976126}
+      addedObject: {fileID: 417976130}
   m_SourcePrefab: {fileID: 100100000, guid: 4dfa587b99012f241bedf1d9f8e97884, type: 3}
 --- !u!4 &301455287 stripped
 Transform:
@@ -11512,28 +11512,16 @@ PrefabInstance:
     m_AddedComponents:
     - targetCorrespondingSourceObject: {fileID: 919132149155446097, guid: 4dfa587b99012f241bedf1d9f8e97884, type: 3}
       insertIndex: -1
-      addedObject: {fileID: 307082876}
+      addedObject: {fileID: 307082877}
     - targetCorrespondingSourceObject: {fileID: 919132149155446097, guid: 4dfa587b99012f241bedf1d9f8e97884, type: 3}
       insertIndex: -1
-      addedObject: {fileID: 307082877}
+      addedObject: {fileID: 307082880}
   m_SourcePrefab: {fileID: 100100000, guid: 4dfa587b99012f241bedf1d9f8e97884, type: 3}
 --- !u!4 &307082873 stripped
 Transform:
   m_CorrespondingSourceObject: {fileID: -8679921383154817045, guid: 4dfa587b99012f241bedf1d9f8e97884, type: 3}
   m_PrefabInstance: {fileID: 307082872}
   m_PrefabAsset: {fileID: 0}
---- !u!114 &307082876
-MonoBehaviour:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 119986374}
-  m_Enabled: 1
-  m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: 83af4897e603db042a1f914c84c9a385, type: 3}
-  m_Name: 
-  m_EditorClassIdentifier: 
 --- !u!65 &307082877
 BoxCollider:
   m_ObjectHideFlags: 0
@@ -11555,6 +11543,22 @@ BoxCollider:
   serializedVersion: 3
   m_Size: {x: 0.09413343, y: 0.106045656, z: 0.021082658}
   m_Center: {x: 0.021899117, y: -0.006316479, z: 0.00045531243}
+--- !u!114 &307082880
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 119986374}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 84f44621a8d0fa24d8dee4e9c77c2202, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  woodCount: {fileID: 619658939}
+  _wood: {fileID: 619658941}
+  wood: {fileID: 119986374}
+  durability: 3
 --- !u!1 &307663111
 GameObject:
   m_ObjectHideFlags: 0
@@ -14293,22 +14297,6 @@ GameObject:
   m_CorrespondingSourceObject: {fileID: 919132149155446097, guid: 4dfa587b99012f241bedf1d9f8e97884, type: 3}
   m_PrefabInstance: {fileID: 301455286}
   m_PrefabAsset: {fileID: 0}
---- !u!114 &417976126
-MonoBehaviour:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 417976123}
-  m_Enabled: 1
-  m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: 33523b3c15954934190b7c99674401e4, type: 3}
-  m_Name: 
-  m_EditorClassIdentifier: 
-  stoneCount: {fileID: 0}
-  _stone: {fileID: 0}
-  stone: {fileID: 0}
-  durability: 3
 --- !u!65 &417976127
 BoxCollider:
   m_ObjectHideFlags: 0
@@ -14330,6 +14318,22 @@ BoxCollider:
   serializedVersion: 3
   m_Size: {x: 0.09413343, y: 0.106045656, z: 0.021082658}
   m_Center: {x: 0.021899207, y: -0.0063163596, z: 0.00045528263}
+--- !u!114 &417976130
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 417976123}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 84f44621a8d0fa24d8dee4e9c77c2202, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  woodCount: {fileID: 619658939}
+  _wood: {fileID: 619658941}
+  wood: {fileID: 417976123}
+  durability: 3
 --- !u!1 &418764099 stripped
 GameObject:
   m_CorrespondingSourceObject: {fileID: 919132149155446097, guid: 77b4d252a330fd94199e3a5b8bd78d4a, type: 3}
@@ -17941,7 +17945,7 @@ PrefabInstance:
       addedObject: {fileID: 638153883}
     - targetCorrespondingSourceObject: {fileID: 919132149155446097, guid: 4dfa587b99012f241bedf1d9f8e97884, type: 3}
       insertIndex: -1
-      addedObject: {fileID: 638153882}
+      addedObject: {fileID: 638153886}
   m_SourcePrefab: {fileID: 100100000, guid: 4dfa587b99012f241bedf1d9f8e97884, type: 3}
 --- !u!4 &541175436 stripped
 Transform:
@@ -18940,18 +18944,6 @@ GameObject:
   m_CorrespondingSourceObject: {fileID: 919132149155446097, guid: 4dfa587b99012f241bedf1d9f8e97884, type: 3}
   m_PrefabInstance: {fileID: 293527857}
   m_PrefabAsset: {fileID: 0}
---- !u!114 &585122827
-MonoBehaviour:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 585122824}
-  m_Enabled: 1
-  m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: 83af4897e603db042a1f914c84c9a385, type: 3}
-  m_Name: 
-  m_EditorClassIdentifier: 
 --- !u!65 &585122828
 BoxCollider:
   m_ObjectHideFlags: 0
@@ -18973,6 +18965,22 @@ BoxCollider:
   serializedVersion: 3
   m_Size: {x: 0.09413343, y: 0.106045656, z: 0.021082658}
   m_Center: {x: 0.021899445, y: -0.006315883, z: 0.00045537204}
+--- !u!114 &585122831
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 585122824}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 84f44621a8d0fa24d8dee4e9c77c2202, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  woodCount: {fileID: 619658939}
+  _wood: {fileID: 619658941}
+  wood: {fileID: 585122824}
+  durability: 3
 --- !u!1 &585396873
 GameObject:
   m_ObjectHideFlags: 0
@@ -19177,7 +19185,7 @@ PrefabInstance:
       addedObject: {fileID: 1044869470}
     - targetCorrespondingSourceObject: {fileID: 919132149155446097, guid: 4dfa587b99012f241bedf1d9f8e97884, type: 3}
       insertIndex: -1
-      addedObject: {fileID: 1044869469}
+      addedObject: {fileID: 1044869473}
   m_SourcePrefab: {fileID: 100100000, guid: 4dfa587b99012f241bedf1d9f8e97884, type: 3}
 --- !u!4 &589683841 stripped
 Transform:
@@ -20031,6 +20039,8 @@ GameObject:
   - component: {fileID: 619658938}
   - component: {fileID: 619658940}
   - component: {fileID: 619658939}
+  - component: {fileID: 619658941}
+  - component: {fileID: 619658942}
   m_Layer: 5
   m_Name: TextWood
   m_TagString: Untagged
@@ -20154,6 +20164,115 @@ CanvasRenderer:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 619658937}
   m_CullTransparentMesh: 1
+--- !u!114 &619658941
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 619658937}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 401226ca1230625409c9911dde08dc83, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  choppingSound: {fileID: 619658942}
+--- !u!82 &619658942
+AudioSource:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 619658937}
+  m_Enabled: 1
+  serializedVersion: 4
+  OutputAudioMixerGroup: {fileID: -1873799817901644241, guid: 76f4d2676a7ba914e99307349208a8c5, type: 2}
+  m_audioClip: {fileID: 8300000, guid: d6d7dd926d2245e458e09840a9473923, type: 3}
+  m_PlayOnAwake: 0
+  m_Volume: 1
+  m_Pitch: 1
+  Loop: 0
+  Mute: 0
+  Spatialize: 0
+  SpatializePostEffects: 0
+  Priority: 128
+  DopplerLevel: 1
+  MinDistance: 1
+  MaxDistance: 500
+  Pan2D: 0
+  rolloffMode: 0
+  BypassEffects: 0
+  BypassListenerEffects: 0
+  BypassReverbZones: 0
+  rolloffCustomCurve:
+    serializedVersion: 2
+    m_Curve:
+    - serializedVersion: 3
+      time: 0
+      value: 1
+      inSlope: 0
+      outSlope: 0
+      tangentMode: 0
+      weightedMode: 0
+      inWeight: 0.33333334
+      outWeight: 0.33333334
+    - serializedVersion: 3
+      time: 1
+      value: 0
+      inSlope: 0
+      outSlope: 0
+      tangentMode: 0
+      weightedMode: 0
+      inWeight: 0.33333334
+      outWeight: 0.33333334
+    m_PreInfinity: 2
+    m_PostInfinity: 2
+    m_RotationOrder: 4
+  panLevelCustomCurve:
+    serializedVersion: 2
+    m_Curve:
+    - serializedVersion: 3
+      time: 0
+      value: 0
+      inSlope: 0
+      outSlope: 0
+      tangentMode: 0
+      weightedMode: 0
+      inWeight: 0.33333334
+      outWeight: 0.33333334
+    m_PreInfinity: 2
+    m_PostInfinity: 2
+    m_RotationOrder: 4
+  spreadCustomCurve:
+    serializedVersion: 2
+    m_Curve:
+    - serializedVersion: 3
+      time: 0
+      value: 0
+      inSlope: 0
+      outSlope: 0
+      tangentMode: 0
+      weightedMode: 0
+      inWeight: 0.33333334
+      outWeight: 0.33333334
+    m_PreInfinity: 2
+    m_PostInfinity: 2
+    m_RotationOrder: 4
+  reverbZoneMixCustomCurve:
+    serializedVersion: 2
+    m_Curve:
+    - serializedVersion: 3
+      time: 0
+      value: 1
+      inSlope: 0
+      outSlope: 0
+      tangentMode: 0
+      weightedMode: 0
+      inWeight: 0.33333334
+      outWeight: 0.33333334
+    m_PreInfinity: 2
+    m_PostInfinity: 2
+    m_RotationOrder: 4
 --- !u!1001 &620783930
 PrefabInstance:
   m_ObjectHideFlags: 0
@@ -20227,25 +20346,13 @@ PrefabInstance:
       addedObject: {fileID: 620783935}
     - targetCorrespondingSourceObject: {fileID: 919132149155446097, guid: 4dfa587b99012f241bedf1d9f8e97884, type: 3}
       insertIndex: -1
-      addedObject: {fileID: 620783934}
+      addedObject: {fileID: 620783938}
   m_SourcePrefab: {fileID: 100100000, guid: 4dfa587b99012f241bedf1d9f8e97884, type: 3}
 --- !u!4 &620783931 stripped
 Transform:
   m_CorrespondingSourceObject: {fileID: -8679921383154817045, guid: 4dfa587b99012f241bedf1d9f8e97884, type: 3}
   m_PrefabInstance: {fileID: 620783930}
   m_PrefabAsset: {fileID: 0}
---- !u!114 &620783934
-MonoBehaviour:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 50588025}
-  m_Enabled: 1
-  m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: 83af4897e603db042a1f914c84c9a385, type: 3}
-  m_Name: 
-  m_EditorClassIdentifier: 
 --- !u!65 &620783935
 BoxCollider:
   m_ObjectHideFlags: 0
@@ -20267,6 +20374,22 @@ BoxCollider:
   serializedVersion: 3
   m_Size: {x: 0.09413343, y: 0.106045656, z: 0.021082658}
   m_Center: {x: 0.021899117, y: -0.0063163596, z: 0.00045537204}
+--- !u!114 &620783938
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 50588025}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 84f44621a8d0fa24d8dee4e9c77c2202, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  woodCount: {fileID: 619658939}
+  _wood: {fileID: 619658941}
+  wood: {fileID: 50588025}
+  durability: 3
 --- !u!1 &621063528
 GameObject:
   m_ObjectHideFlags: 0
@@ -20949,18 +21072,6 @@ GameObject:
   m_CorrespondingSourceObject: {fileID: 919132149155446097, guid: 4dfa587b99012f241bedf1d9f8e97884, type: 3}
   m_PrefabInstance: {fileID: 541175435}
   m_PrefabAsset: {fileID: 0}
---- !u!114 &638153882
-MonoBehaviour:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 638153879}
-  m_Enabled: 1
-  m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: 83af4897e603db042a1f914c84c9a385, type: 3}
-  m_Name: 
-  m_EditorClassIdentifier: 
 --- !u!65 &638153883
 BoxCollider:
   m_ObjectHideFlags: 0
@@ -20982,6 +21093,22 @@ BoxCollider:
   serializedVersion: 3
   m_Size: {x: 0.09413348, y: 0.10604571, z: 0.021082668}
   m_Center: {x: 0.021899454, y: -0.006316364, z: 0.00045543196}
+--- !u!114 &638153886
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 638153879}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 84f44621a8d0fa24d8dee4e9c77c2202, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  woodCount: {fileID: 619658939}
+  _wood: {fileID: 619658941}
+  wood: {fileID: 638153879}
+  durability: 3
 --- !u!1 &638382573
 GameObject:
   m_ObjectHideFlags: 0
@@ -23100,7 +23227,7 @@ PrefabInstance:
       addedObject: {fileID: 1014786086}
     - targetCorrespondingSourceObject: {fileID: 919132149155446097, guid: 4dfa587b99012f241bedf1d9f8e97884, type: 3}
       insertIndex: -1
-      addedObject: {fileID: 1014786085}
+      addedObject: {fileID: 1014786089}
   m_SourcePrefab: {fileID: 100100000, guid: 4dfa587b99012f241bedf1d9f8e97884, type: 3}
 --- !u!4 &743631130 stripped
 Transform:
@@ -23180,29 +23307,13 @@ PrefabInstance:
       addedObject: {fileID: 748255696}
     - targetCorrespondingSourceObject: {fileID: 919132149155446097, guid: 4dfa587b99012f241bedf1d9f8e97884, type: 3}
       insertIndex: -1
-      addedObject: {fileID: 748255695}
+      addedObject: {fileID: 748255699}
   m_SourcePrefab: {fileID: 100100000, guid: 4dfa587b99012f241bedf1d9f8e97884, type: 3}
 --- !u!4 &748255692 stripped
 Transform:
   m_CorrespondingSourceObject: {fileID: -8679921383154817045, guid: 4dfa587b99012f241bedf1d9f8e97884, type: 3}
   m_PrefabInstance: {fileID: 748255691}
   m_PrefabAsset: {fileID: 0}
---- !u!114 &748255695
-MonoBehaviour:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 564078019}
-  m_Enabled: 1
-  m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: 33523b3c15954934190b7c99674401e4, type: 3}
-  m_Name: 
-  m_EditorClassIdentifier: 
-  stoneCount: {fileID: 0}
-  _stone: {fileID: 0}
-  stone: {fileID: 0}
-  durability: 3
 --- !u!65 &748255696
 BoxCollider:
   m_ObjectHideFlags: 0
@@ -23224,6 +23335,22 @@ BoxCollider:
   serializedVersion: 3
   m_Size: {x: 0.09413343, y: 0.106045656, z: 0.021082658}
   m_Center: {x: 0.021899207, y: -0.006315883, z: 0.00045536458}
+--- !u!114 &748255699
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 564078019}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 84f44621a8d0fa24d8dee4e9c77c2202, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  woodCount: {fileID: 619658939}
+  _wood: {fileID: 619658941}
+  wood: {fileID: 564078019}
+  durability: 3
 --- !u!1 &750068049 stripped
 GameObject:
   m_CorrespondingSourceObject: {fileID: 7463307759790608978, guid: 77b4d252a330fd94199e3a5b8bd78d4a, type: 3}
@@ -26994,7 +27121,7 @@ PrefabInstance:
       addedObject: {fileID: 852229590}
     - targetCorrespondingSourceObject: {fileID: 919132149155446097, guid: 4dfa587b99012f241bedf1d9f8e97884, type: 3}
       insertIndex: -1
-      addedObject: {fileID: 852229591}
+      addedObject: {fileID: 852229594}
   m_SourcePrefab: {fileID: 100100000, guid: 4dfa587b99012f241bedf1d9f8e97884, type: 3}
 --- !u!4 &852229587 stripped
 Transform:
@@ -27022,7 +27149,7 @@ BoxCollider:
   serializedVersion: 3
   m_Size: {x: 0.09413343, y: 0.106045656, z: 0.021082658}
   m_Center: {x: 0.021899445, y: -0.0063163596, z: 0.00045525283}
---- !u!114 &852229591
+--- !u!114 &852229594
 MonoBehaviour:
   m_ObjectHideFlags: 0
   m_CorrespondingSourceObject: {fileID: 0}
@@ -27031,9 +27158,13 @@ MonoBehaviour:
   m_GameObject: {fileID: 547840569}
   m_Enabled: 1
   m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: 83af4897e603db042a1f914c84c9a385, type: 3}
+  m_Script: {fileID: 11500000, guid: 84f44621a8d0fa24d8dee4e9c77c2202, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+  woodCount: {fileID: 619658939}
+  _wood: {fileID: 619658941}
+  wood: {fileID: 547840569}
+  durability: 3
 --- !u!1 &852240119
 GameObject:
   m_ObjectHideFlags: 0
@@ -28163,25 +28294,13 @@ PrefabInstance:
       addedObject: {fileID: 872953823}
     - targetCorrespondingSourceObject: {fileID: 919132149155446097, guid: 4dfa587b99012f241bedf1d9f8e97884, type: 3}
       insertIndex: -1
-      addedObject: {fileID: 872953822}
+      addedObject: {fileID: 872953826}
   m_SourcePrefab: {fileID: 100100000, guid: 4dfa587b99012f241bedf1d9f8e97884, type: 3}
 --- !u!4 &872953819 stripped
 Transform:
   m_CorrespondingSourceObject: {fileID: -8679921383154817045, guid: 4dfa587b99012f241bedf1d9f8e97884, type: 3}
   m_PrefabInstance: {fileID: 872953818}
   m_PrefabAsset: {fileID: 0}
---- !u!114 &872953822
-MonoBehaviour:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 578106618}
-  m_Enabled: 1
-  m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: 83af4897e603db042a1f914c84c9a385, type: 3}
-  m_Name: 
-  m_EditorClassIdentifier: 
 --- !u!65 &872953823
 BoxCollider:
   m_ObjectHideFlags: 0
@@ -28203,6 +28322,22 @@ BoxCollider:
   serializedVersion: 3
   m_Size: {x: 0.09413343, y: 0.106045656, z: 0.021082658}
   m_Center: {x: 0.021899207, y: -0.0063163596, z: 0.00045549124}
+--- !u!114 &872953826
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 578106618}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 84f44621a8d0fa24d8dee4e9c77c2202, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  woodCount: {fileID: 619658939}
+  _wood: {fileID: 619658941}
+  wood: {fileID: 578106618}
+  durability: 3
 --- !u!1 &878111930
 GameObject:
   m_ObjectHideFlags: 0
@@ -28976,25 +29111,13 @@ PrefabInstance:
       addedObject: {fileID: 914872257}
     - targetCorrespondingSourceObject: {fileID: 919132149155446097, guid: 4dfa587b99012f241bedf1d9f8e97884, type: 3}
       insertIndex: -1
-      addedObject: {fileID: 914872256}
+      addedObject: {fileID: 914872260}
   m_SourcePrefab: {fileID: 100100000, guid: 4dfa587b99012f241bedf1d9f8e97884, type: 3}
 --- !u!4 &914872253 stripped
 Transform:
   m_CorrespondingSourceObject: {fileID: -8679921383154817045, guid: 4dfa587b99012f241bedf1d9f8e97884, type: 3}
   m_PrefabInstance: {fileID: 914872252}
   m_PrefabAsset: {fileID: 0}
---- !u!114 &914872256
-MonoBehaviour:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 128179984}
-  m_Enabled: 1
-  m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: 83af4897e603db042a1f914c84c9a385, type: 3}
-  m_Name: 
-  m_EditorClassIdentifier: 
 --- !u!65 &914872257
 BoxCollider:
   m_ObjectHideFlags: 0
@@ -29016,6 +29139,22 @@ BoxCollider:
   serializedVersion: 3
   m_Size: {x: 0.09413343, y: 0.106045656, z: 0.021082658}
   m_Center: {x: 0.021899028, y: -0.006316598, z: 0.00045532826}
+--- !u!114 &914872260
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 128179984}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 84f44621a8d0fa24d8dee4e9c77c2202, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  woodCount: {fileID: 619658939}
+  _wood: {fileID: 619658941}
+  wood: {fileID: 128179984}
+  durability: 3
 --- !u!1 &920003577
 GameObject:
   m_ObjectHideFlags: 0
@@ -29259,7 +29398,7 @@ PrefabInstance:
       addedObject: {fileID: 927151342}
     - targetCorrespondingSourceObject: {fileID: 919132149155446097, guid: 4dfa587b99012f241bedf1d9f8e97884, type: 3}
       insertIndex: -1
-      addedObject: {fileID: 927151341}
+      addedObject: {fileID: 927151345}
   m_SourcePrefab: {fileID: 100100000, guid: 4dfa587b99012f241bedf1d9f8e97884, type: 3}
 --- !u!4 &924187771 stripped
 Transform:
@@ -29376,18 +29515,6 @@ GameObject:
   m_CorrespondingSourceObject: {fileID: 919132149155446097, guid: 4dfa587b99012f241bedf1d9f8e97884, type: 3}
   m_PrefabInstance: {fileID: 924187770}
   m_PrefabAsset: {fileID: 0}
---- !u!114 &927151341
-MonoBehaviour:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 927151338}
-  m_Enabled: 1
-  m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: 83af4897e603db042a1f914c84c9a385, type: 3}
-  m_Name: 
-  m_EditorClassIdentifier: 
 --- !u!65 &927151342
 BoxCollider:
   m_ObjectHideFlags: 0
@@ -29409,6 +29536,22 @@ BoxCollider:
   serializedVersion: 3
   m_Size: {x: 0.09413343, y: 0.106045656, z: 0.021082658}
   m_Center: {x: 0.021899147, y: -0.006316121, z: 0.00045537204}
+--- !u!114 &927151345
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 927151338}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 84f44621a8d0fa24d8dee4e9c77c2202, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  woodCount: {fileID: 619658939}
+  _wood: {fileID: 619658941}
+  wood: {fileID: 927151338}
+  durability: 3
 --- !u!1 &928108380 stripped
 GameObject:
   m_CorrespondingSourceObject: {fileID: 919132149155446097, guid: 4dfa587b99012f241bedf1d9f8e97884, type: 3}
@@ -29800,25 +29943,13 @@ PrefabInstance:
       addedObject: {fileID: 931504505}
     - targetCorrespondingSourceObject: {fileID: 919132149155446097, guid: 4dfa587b99012f241bedf1d9f8e97884, type: 3}
       insertIndex: -1
-      addedObject: {fileID: 931504504}
+      addedObject: {fileID: 931504508}
   m_SourcePrefab: {fileID: 100100000, guid: 4dfa587b99012f241bedf1d9f8e97884, type: 3}
 --- !u!4 &931504501 stripped
 Transform:
   m_CorrespondingSourceObject: {fileID: -8679921383154817045, guid: 4dfa587b99012f241bedf1d9f8e97884, type: 3}
   m_PrefabInstance: {fileID: 931504500}
   m_PrefabAsset: {fileID: 0}
---- !u!114 &931504504
-MonoBehaviour:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 562942506}
-  m_Enabled: 1
-  m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: 83af4897e603db042a1f914c84c9a385, type: 3}
-  m_Name: 
-  m_EditorClassIdentifier: 
 --- !u!65 &931504505
 BoxCollider:
   m_ObjectHideFlags: 0
@@ -29840,6 +29971,22 @@ BoxCollider:
   serializedVersion: 3
   m_Size: {x: 0.09413343, y: 0.106045656, z: 0.021082658}
   m_Center: {x: 0.021899087, y: -0.0063163596, z: 0.00045537204}
+--- !u!114 &931504508
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 562942506}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 84f44621a8d0fa24d8dee4e9c77c2202, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  woodCount: {fileID: 619658939}
+  _wood: {fileID: 619658941}
+  wood: {fileID: 562942506}
+  durability: 3
 --- !u!1 &932397161
 GameObject:
   m_ObjectHideFlags: 0
@@ -30540,18 +30687,6 @@ GameObject:
   m_CorrespondingSourceObject: {fileID: 919132149155446097, guid: 4dfa587b99012f241bedf1d9f8e97884, type: 3}
   m_PrefabInstance: {fileID: 254463520}
   m_PrefabAsset: {fileID: 0}
---- !u!114 &964975730
-MonoBehaviour:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 964975727}
-  m_Enabled: 1
-  m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: 83af4897e603db042a1f914c84c9a385, type: 3}
-  m_Name: 
-  m_EditorClassIdentifier: 
 --- !u!65 &964975731
 BoxCollider:
   m_ObjectHideFlags: 0
@@ -30573,6 +30708,22 @@ BoxCollider:
   serializedVersion: 3
   m_Size: {x: 0.09413343, y: 0.106045656, z: 0.021082658}
   m_Center: {x: 0.021899087, y: -0.0063163596, z: 0.00045537204}
+--- !u!114 &964975734
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 964975727}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 84f44621a8d0fa24d8dee4e9c77c2202, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  woodCount: {fileID: 619658939}
+  _wood: {fileID: 619658941}
+  wood: {fileID: 964975727}
+  durability: 3
 --- !u!1 &966068822 stripped
 GameObject:
   m_CorrespondingSourceObject: {fileID: 919132149155446097, guid: 77b4d252a330fd94199e3a5b8bd78d4a, type: 3}
@@ -31299,9 +31450,6 @@ PrefabInstance:
     - targetCorrespondingSourceObject: {fileID: 919132149155446097, guid: 4dfa587b99012f241bedf1d9f8e97884, type: 3}
       insertIndex: -1
       addedObject: {fileID: 1229916755}
-    - targetCorrespondingSourceObject: {fileID: 919132149155446097, guid: 4dfa587b99012f241bedf1d9f8e97884, type: 3}
-      insertIndex: -1
-      addedObject: {fileID: 1229916754}
   m_SourcePrefab: {fileID: 100100000, guid: 4dfa587b99012f241bedf1d9f8e97884, type: 3}
 --- !u!4 &983201561 stripped
 Transform:
@@ -31525,18 +31673,6 @@ GameObject:
   m_CorrespondingSourceObject: {fileID: 919132149155446097, guid: 4dfa587b99012f241bedf1d9f8e97884, type: 3}
   m_PrefabInstance: {fileID: 103696896}
   m_PrefabAsset: {fileID: 0}
---- !u!114 &987568401
-MonoBehaviour:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 987568398}
-  m_Enabled: 1
-  m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: 83af4897e603db042a1f914c84c9a385, type: 3}
-  m_Name: 
-  m_EditorClassIdentifier: 
 --- !u!65 &987568402
 BoxCollider:
   m_ObjectHideFlags: 0
@@ -31558,6 +31694,22 @@ BoxCollider:
   serializedVersion: 3
   m_Size: {x: 0.094133444, y: 0.10604567, z: 0.021082658}
   m_Center: {x: 0.02189909, y: -0.0063162423, z: 0.00045549124}
+--- !u!114 &987568405
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 987568398}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 84f44621a8d0fa24d8dee4e9c77c2202, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  woodCount: {fileID: 619658939}
+  _wood: {fileID: 619658941}
+  wood: {fileID: 987568398}
+  durability: 3
 --- !u!1 &990958881
 GameObject:
   m_ObjectHideFlags: 0
@@ -32086,29 +32238,13 @@ PrefabInstance:
       addedObject: {fileID: 994408147}
     - targetCorrespondingSourceObject: {fileID: 919132149155446097, guid: 4dfa587b99012f241bedf1d9f8e97884, type: 3}
       insertIndex: -1
-      addedObject: {fileID: 994408146}
+      addedObject: {fileID: 994408150}
   m_SourcePrefab: {fileID: 100100000, guid: 4dfa587b99012f241bedf1d9f8e97884, type: 3}
 --- !u!4 &994408143 stripped
 Transform:
   m_CorrespondingSourceObject: {fileID: -8679921383154817045, guid: 4dfa587b99012f241bedf1d9f8e97884, type: 3}
   m_PrefabInstance: {fileID: 994408142}
   m_PrefabAsset: {fileID: 0}
---- !u!114 &994408146
-MonoBehaviour:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 192006}
-  m_Enabled: 1
-  m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: 33523b3c15954934190b7c99674401e4, type: 3}
-  m_Name: 
-  m_EditorClassIdentifier: 
-  stoneCount: {fileID: 0}
-  _stone: {fileID: 0}
-  stone: {fileID: 0}
-  durability: 3
 --- !u!65 &994408147
 BoxCollider:
   m_ObjectHideFlags: 0
@@ -32130,6 +32266,22 @@ BoxCollider:
   serializedVersion: 3
   m_Size: {x: 0.09413343, y: 0.106045656, z: 0.021082658}
   m_Center: {x: 0.021899207, y: -0.006315883, z: 0.00045534223}
+--- !u!114 &994408150
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 192006}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 84f44621a8d0fa24d8dee4e9c77c2202, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  woodCount: {fileID: 619658939}
+  _wood: {fileID: 619658941}
+  wood: {fileID: 192006}
+  durability: 3
 --- !u!1 &996354852 stripped
 GameObject:
   m_CorrespondingSourceObject: {fileID: 919132149155446097, guid: 77b4d252a330fd94199e3a5b8bd78d4a, type: 3}
@@ -32696,18 +32848,6 @@ GameObject:
   m_CorrespondingSourceObject: {fileID: 919132149155446097, guid: 4dfa587b99012f241bedf1d9f8e97884, type: 3}
   m_PrefabInstance: {fileID: 743631129}
   m_PrefabAsset: {fileID: 0}
---- !u!114 &1014786085
-MonoBehaviour:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 1014786082}
-  m_Enabled: 1
-  m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: 83af4897e603db042a1f914c84c9a385, type: 3}
-  m_Name: 
-  m_EditorClassIdentifier: 
 --- !u!65 &1014786086
 BoxCollider:
   m_ObjectHideFlags: 0
@@ -32729,6 +32869,22 @@ BoxCollider:
   serializedVersion: 3
   m_Size: {x: 0.09413343, y: 0.106045656, z: 0.021082658}
   m_Center: {x: 0.021899207, y: -0.0063163596, z: 0.00045549124}
+--- !u!114 &1014786089
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1014786082}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 84f44621a8d0fa24d8dee4e9c77c2202, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  woodCount: {fileID: 619658939}
+  _wood: {fileID: 619658941}
+  wood: {fileID: 1014786082}
+  durability: 3
 --- !u!1001 &1017793363
 PrefabInstance:
   m_ObjectHideFlags: 0
@@ -32802,25 +32958,13 @@ PrefabInstance:
       addedObject: {fileID: 1017793368}
     - targetCorrespondingSourceObject: {fileID: 919132149155446097, guid: 4dfa587b99012f241bedf1d9f8e97884, type: 3}
       insertIndex: -1
-      addedObject: {fileID: 1017793367}
+      addedObject: {fileID: 1017793371}
   m_SourcePrefab: {fileID: 100100000, guid: 4dfa587b99012f241bedf1d9f8e97884, type: 3}
 --- !u!4 &1017793364 stripped
 Transform:
   m_CorrespondingSourceObject: {fileID: -8679921383154817045, guid: 4dfa587b99012f241bedf1d9f8e97884, type: 3}
   m_PrefabInstance: {fileID: 1017793363}
   m_PrefabAsset: {fileID: 0}
---- !u!114 &1017793367
-MonoBehaviour:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 1008559598}
-  m_Enabled: 1
-  m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: 83af4897e603db042a1f914c84c9a385, type: 3}
-  m_Name: 
-  m_EditorClassIdentifier: 
 --- !u!65 &1017793368
 BoxCollider:
   m_ObjectHideFlags: 0
@@ -32842,6 +32986,22 @@ BoxCollider:
   serializedVersion: 3
   m_Size: {x: 0.09413343, y: 0.106045656, z: 0.021082658}
   m_Center: {x: 0.021899087, y: -0.0063163596, z: 0.00045537204}
+--- !u!114 &1017793371
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1008559598}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 84f44621a8d0fa24d8dee4e9c77c2202, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  woodCount: {fileID: 619658939}
+  _wood: {fileID: 619658941}
+  wood: {fileID: 1008559598}
+  durability: 3
 --- !u!1 &1019217210
 GameObject:
   m_ObjectHideFlags: 0
@@ -33485,7 +33645,7 @@ PrefabInstance:
       addedObject: {fileID: 1655317016}
     - targetCorrespondingSourceObject: {fileID: 919132149155446097, guid: 4dfa587b99012f241bedf1d9f8e97884, type: 3}
       insertIndex: -1
-      addedObject: {fileID: 1655317015}
+      addedObject: {fileID: 1655317019}
   m_SourcePrefab: {fileID: 100100000, guid: 4dfa587b99012f241bedf1d9f8e97884, type: 3}
 --- !u!4 &1025806838 stripped
 Transform:
@@ -34532,9 +34692,6 @@ PrefabInstance:
     - targetCorrespondingSourceObject: {fileID: 919132149155446097, guid: 4dfa587b99012f241bedf1d9f8e97884, type: 3}
       insertIndex: -1
       addedObject: {fileID: 1892734068}
-    - targetCorrespondingSourceObject: {fileID: 919132149155446097, guid: 4dfa587b99012f241bedf1d9f8e97884, type: 3}
-      insertIndex: -1
-      addedObject: {fileID: 1892734067}
   m_SourcePrefab: {fileID: 100100000, guid: 4dfa587b99012f241bedf1d9f8e97884, type: 3}
 --- !u!4 &1043977962 stripped
 Transform:
@@ -34657,18 +34814,6 @@ GameObject:
   m_CorrespondingSourceObject: {fileID: 919132149155446097, guid: 4dfa587b99012f241bedf1d9f8e97884, type: 3}
   m_PrefabInstance: {fileID: 589683840}
   m_PrefabAsset: {fileID: 0}
---- !u!114 &1044869469
-MonoBehaviour:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 1044869466}
-  m_Enabled: 1
-  m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: 83af4897e603db042a1f914c84c9a385, type: 3}
-  m_Name: 
-  m_EditorClassIdentifier: 
 --- !u!65 &1044869470
 BoxCollider:
   m_ObjectHideFlags: 0
@@ -34690,6 +34835,22 @@ BoxCollider:
   serializedVersion: 3
   m_Size: {x: 0.09413343, y: 0.106045656, z: 0.021082658}
   m_Center: {x: 0.021899207, y: -0.0063162404, z: 0.00045537204}
+--- !u!114 &1044869473
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1044869466}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 84f44621a8d0fa24d8dee4e9c77c2202, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  woodCount: {fileID: 619658939}
+  _wood: {fileID: 619658941}
+  wood: {fileID: 1044869466}
+  durability: 3
 --- !u!1 &1046905157
 GameObject:
   m_ObjectHideFlags: 0
@@ -35731,7 +35892,7 @@ PrefabInstance:
       addedObject: {fileID: 1873459915}
     - targetCorrespondingSourceObject: {fileID: 919132149155446097, guid: 4dfa587b99012f241bedf1d9f8e97884, type: 3}
       insertIndex: -1
-      addedObject: {fileID: 1873459914}
+      addedObject: {fileID: 1873459918}
   m_SourcePrefab: {fileID: 100100000, guid: 4dfa587b99012f241bedf1d9f8e97884, type: 3}
 --- !u!4 &1076041258 stripped
 Transform:
@@ -35973,28 +36134,16 @@ PrefabInstance:
     m_AddedComponents:
     - targetCorrespondingSourceObject: {fileID: 919132149155446097, guid: 4dfa587b99012f241bedf1d9f8e97884, type: 3}
       insertIndex: -1
-      addedObject: {fileID: 1088971266}
+      addedObject: {fileID: 1088971267}
     - targetCorrespondingSourceObject: {fileID: 919132149155446097, guid: 4dfa587b99012f241bedf1d9f8e97884, type: 3}
       insertIndex: -1
-      addedObject: {fileID: 1088971267}
+      addedObject: {fileID: 1088971270}
   m_SourcePrefab: {fileID: 100100000, guid: 4dfa587b99012f241bedf1d9f8e97884, type: 3}
 --- !u!4 &1088971263 stripped
 Transform:
   m_CorrespondingSourceObject: {fileID: -8679921383154817045, guid: 4dfa587b99012f241bedf1d9f8e97884, type: 3}
   m_PrefabInstance: {fileID: 1088971262}
   m_PrefabAsset: {fileID: 0}
---- !u!114 &1088971266
-MonoBehaviour:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 1052040273}
-  m_Enabled: 1
-  m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: 83af4897e603db042a1f914c84c9a385, type: 3}
-  m_Name: 
-  m_EditorClassIdentifier: 
 --- !u!65 &1088971267
 BoxCollider:
   m_ObjectHideFlags: 0
@@ -36016,6 +36165,22 @@ BoxCollider:
   serializedVersion: 3
   m_Size: {x: 0.09413343, y: 0.106045656, z: 0.021082658}
   m_Center: {x: 0.021899117, y: -0.006316479, z: 0.00045537204}
+--- !u!114 &1088971270
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1052040273}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 84f44621a8d0fa24d8dee4e9c77c2202, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  woodCount: {fileID: 619658939}
+  _wood: {fileID: 619658941}
+  wood: {fileID: 1052040273}
+  durability: 3
 --- !u!1 &1089096634
 GameObject:
   m_ObjectHideFlags: 0
@@ -36348,7 +36513,7 @@ PrefabInstance:
       addedObject: {fileID: 2056476254}
     - targetCorrespondingSourceObject: {fileID: 919132149155446097, guid: 4dfa587b99012f241bedf1d9f8e97884, type: 3}
       insertIndex: -1
-      addedObject: {fileID: 2056476253}
+      addedObject: {fileID: 2056476257}
   m_SourcePrefab: {fileID: 100100000, guid: 4dfa587b99012f241bedf1d9f8e97884, type: 3}
 --- !u!4 &1096928806 stripped
 Transform:
@@ -37669,7 +37834,7 @@ PrefabInstance:
       addedObject: {fileID: 1663547844}
     - targetCorrespondingSourceObject: {fileID: 919132149155446097, guid: 4dfa587b99012f241bedf1d9f8e97884, type: 3}
       insertIndex: -1
-      addedObject: {fileID: 1663547843}
+      addedObject: {fileID: 1663547847}
   m_SourcePrefab: {fileID: 100100000, guid: 4dfa587b99012f241bedf1d9f8e97884, type: 3}
 --- !u!4 &1129859826 stripped
 Transform:
@@ -40527,18 +40692,6 @@ GameObject:
   m_CorrespondingSourceObject: {fileID: 919132149155446097, guid: 4dfa587b99012f241bedf1d9f8e97884, type: 3}
   m_PrefabInstance: {fileID: 983201560}
   m_PrefabAsset: {fileID: 0}
---- !u!114 &1229916754
-MonoBehaviour:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 1229916751}
-  m_Enabled: 1
-  m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: 83af4897e603db042a1f914c84c9a385, type: 3}
-  m_Name: 
-  m_EditorClassIdentifier: 
 --- !u!65 &1229916755
 BoxCollider:
   m_ObjectHideFlags: 0
@@ -40738,7 +40891,7 @@ PrefabInstance:
       addedObject: {fileID: 1628261369}
     - targetCorrespondingSourceObject: {fileID: 919132149155446097, guid: 4dfa587b99012f241bedf1d9f8e97884, type: 3}
       insertIndex: -1
-      addedObject: {fileID: 1628261368}
+      addedObject: {fileID: 1628261372}
   m_SourcePrefab: {fileID: 100100000, guid: 4dfa587b99012f241bedf1d9f8e97884, type: 3}
 --- !u!4 &1232631073 stripped
 Transform:
@@ -43658,28 +43811,16 @@ PrefabInstance:
     m_AddedComponents:
     - targetCorrespondingSourceObject: {fileID: 919132149155446097, guid: 4dfa587b99012f241bedf1d9f8e97884, type: 3}
       insertIndex: -1
-      addedObject: {fileID: 1306953587}
+      addedObject: {fileID: 1306953588}
     - targetCorrespondingSourceObject: {fileID: 919132149155446097, guid: 4dfa587b99012f241bedf1d9f8e97884, type: 3}
       insertIndex: -1
-      addedObject: {fileID: 1306953588}
+      addedObject: {fileID: 1306953591}
   m_SourcePrefab: {fileID: 100100000, guid: 4dfa587b99012f241bedf1d9f8e97884, type: 3}
 --- !u!4 &1306953584 stripped
 Transform:
   m_CorrespondingSourceObject: {fileID: -8679921383154817045, guid: 4dfa587b99012f241bedf1d9f8e97884, type: 3}
   m_PrefabInstance: {fileID: 1306953583}
   m_PrefabAsset: {fileID: 0}
---- !u!114 &1306953587
-MonoBehaviour:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 1092198407}
-  m_Enabled: 1
-  m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: 83af4897e603db042a1f914c84c9a385, type: 3}
-  m_Name: 
-  m_EditorClassIdentifier: 
 --- !u!65 &1306953588
 BoxCollider:
   m_ObjectHideFlags: 0
@@ -43701,6 +43842,22 @@ BoxCollider:
   serializedVersion: 3
   m_Size: {x: 0.09413343, y: 0.106045656, z: 0.021082658}
   m_Center: {x: 0.021899117, y: -0.006316479, z: 0.00045543164}
+--- !u!114 &1306953591
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1092198407}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 84f44621a8d0fa24d8dee4e9c77c2202, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  woodCount: {fileID: 619658939}
+  _wood: {fileID: 619658941}
+  wood: {fileID: 1092198407}
+  durability: 3
 --- !u!1 &1312075486
 GameObject:
   m_ObjectHideFlags: 0
@@ -44452,18 +44609,6 @@ GameObject:
   m_CorrespondingSourceObject: {fileID: 919132149155446097, guid: 4dfa587b99012f241bedf1d9f8e97884, type: 3}
   m_PrefabInstance: {fileID: 82343164}
   m_PrefabAsset: {fileID: 0}
---- !u!114 &1329538879
-MonoBehaviour:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 1329538876}
-  m_Enabled: 1
-  m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: 83af4897e603db042a1f914c84c9a385, type: 3}
-  m_Name: 
-  m_EditorClassIdentifier: 
 --- !u!65 &1329538880
 BoxCollider:
   m_ObjectHideFlags: 0
@@ -44485,6 +44630,22 @@ BoxCollider:
   serializedVersion: 3
   m_Size: {x: 0.09413343, y: 0.106045656, z: 0.021082658}
   m_Center: {x: 0.021899087, y: -0.0063163596, z: 0.00045543164}
+--- !u!114 &1329538883
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1329538876}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 84f44621a8d0fa24d8dee4e9c77c2202, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  woodCount: {fileID: 619658939}
+  _wood: {fileID: 619658941}
+  wood: {fileID: 1329538876}
+  durability: 3
 --- !u!1 &1330041378
 GameObject:
   m_ObjectHideFlags: 0
@@ -46539,28 +46700,16 @@ PrefabInstance:
     m_AddedComponents:
     - targetCorrespondingSourceObject: {fileID: 919132149155446097, guid: 4dfa587b99012f241bedf1d9f8e97884, type: 3}
       insertIndex: -1
-      addedObject: {fileID: 1411439361}
+      addedObject: {fileID: 1411439362}
     - targetCorrespondingSourceObject: {fileID: 919132149155446097, guid: 4dfa587b99012f241bedf1d9f8e97884, type: 3}
       insertIndex: -1
-      addedObject: {fileID: 1411439362}
+      addedObject: {fileID: 1411439365}
   m_SourcePrefab: {fileID: 100100000, guid: 4dfa587b99012f241bedf1d9f8e97884, type: 3}
 --- !u!4 &1411439358 stripped
 Transform:
   m_CorrespondingSourceObject: {fileID: -8679921383154817045, guid: 4dfa587b99012f241bedf1d9f8e97884, type: 3}
   m_PrefabInstance: {fileID: 1411439357}
   m_PrefabAsset: {fileID: 0}
---- !u!114 &1411439361
-MonoBehaviour:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 928108380}
-  m_Enabled: 1
-  m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: 83af4897e603db042a1f914c84c9a385, type: 3}
-  m_Name: 
-  m_EditorClassIdentifier: 
 --- !u!65 &1411439362
 BoxCollider:
   m_ObjectHideFlags: 0
@@ -46582,6 +46731,22 @@ BoxCollider:
   serializedVersion: 3
   m_Size: {x: 0.09413343, y: 0.106045656, z: 0.021082658}
   m_Center: {x: 0.021899117, y: -0.0063163596, z: 0.00045543164}
+--- !u!114 &1411439365
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 928108380}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 84f44621a8d0fa24d8dee4e9c77c2202, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  woodCount: {fileID: 619658939}
+  _wood: {fileID: 619658941}
+  wood: {fileID: 928108380}
+  durability: 3
 --- !u!1 &1411647372
 GameObject:
   m_ObjectHideFlags: 0
@@ -46867,25 +47032,13 @@ PrefabInstance:
       addedObject: {fileID: 1415248134}
     - targetCorrespondingSourceObject: {fileID: 919132149155446097, guid: 4dfa587b99012f241bedf1d9f8e97884, type: 3}
       insertIndex: -1
-      addedObject: {fileID: 1415248133}
+      addedObject: {fileID: 1415248137}
   m_SourcePrefab: {fileID: 100100000, guid: 4dfa587b99012f241bedf1d9f8e97884, type: 3}
 --- !u!4 &1415248130 stripped
 Transform:
   m_CorrespondingSourceObject: {fileID: -8679921383154817045, guid: 4dfa587b99012f241bedf1d9f8e97884, type: 3}
   m_PrefabInstance: {fileID: 1415248129}
   m_PrefabAsset: {fileID: 0}
---- !u!114 &1415248133
-MonoBehaviour:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 13088301}
-  m_Enabled: 1
-  m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: 83af4897e603db042a1f914c84c9a385, type: 3}
-  m_Name: 
-  m_EditorClassIdentifier: 
 --- !u!65 &1415248134
 BoxCollider:
   m_ObjectHideFlags: 0
@@ -46907,6 +47060,22 @@ BoxCollider:
   serializedVersion: 3
   m_Size: {x: 0.09413343, y: 0.106045656, z: 0.021082658}
   m_Center: {x: 0.021899445, y: -0.0063163596, z: 0.00045537204}
+--- !u!114 &1415248137
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 13088301}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 84f44621a8d0fa24d8dee4e9c77c2202, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  woodCount: {fileID: 619658939}
+  _wood: {fileID: 619658941}
+  wood: {fileID: 13088301}
+  durability: 3
 --- !u!1 &1415935856 stripped
 GameObject:
   m_CorrespondingSourceObject: {fileID: 919132149155446097, guid: 4dfa587b99012f241bedf1d9f8e97884, type: 3}
@@ -47189,7 +47358,7 @@ PrefabInstance:
       addedObject: {fileID: 1594249134}
     - targetCorrespondingSourceObject: {fileID: 919132149155446097, guid: 4dfa587b99012f241bedf1d9f8e97884, type: 3}
       insertIndex: -1
-      addedObject: {fileID: 1594249133}
+      addedObject: {fileID: 1594249137}
   m_SourcePrefab: {fileID: 100100000, guid: 4dfa587b99012f241bedf1d9f8e97884, type: 3}
 --- !u!4 &1421237082 stripped
 Transform:
@@ -48628,7 +48797,7 @@ PrefabInstance:
       addedObject: {fileID: 1849366918}
     - targetCorrespondingSourceObject: {fileID: 919132149155446097, guid: 4dfa587b99012f241bedf1d9f8e97884, type: 3}
       insertIndex: -1
-      addedObject: {fileID: 1849366917}
+      addedObject: {fileID: 1849366921}
   m_SourcePrefab: {fileID: 100100000, guid: 4dfa587b99012f241bedf1d9f8e97884, type: 3}
 --- !u!4 &1490601545 stripped
 Transform:
@@ -49186,18 +49355,6 @@ GameObject:
   m_CorrespondingSourceObject: {fileID: 919132149155446097, guid: 4dfa587b99012f241bedf1d9f8e97884, type: 3}
   m_PrefabInstance: {fileID: 120309061}
   m_PrefabAsset: {fileID: 0}
---- !u!114 &1503295180
-MonoBehaviour:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 1503295177}
-  m_Enabled: 1
-  m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: 83af4897e603db042a1f914c84c9a385, type: 3}
-  m_Name: 
-  m_EditorClassIdentifier: 
 --- !u!65 &1503295181
 BoxCollider:
   m_ObjectHideFlags: 0
@@ -49219,6 +49376,22 @@ BoxCollider:
   serializedVersion: 3
   m_Size: {x: 0.09413343, y: 0.106045656, z: 0.021082658}
   m_Center: {x: 0.021899028, y: -0.006316598, z: 0.00045531988}
+--- !u!114 &1503295184
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1503295177}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 84f44621a8d0fa24d8dee4e9c77c2202, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  woodCount: {fileID: 619658939}
+  _wood: {fileID: 619658941}
+  wood: {fileID: 1503295177}
+  durability: 3
 --- !u!1001 &1503365575
 PrefabInstance:
   m_ObjectHideFlags: 0
@@ -49292,7 +49465,7 @@ PrefabInstance:
       addedObject: {fileID: 1994976016}
     - targetCorrespondingSourceObject: {fileID: 919132149155446097, guid: 4dfa587b99012f241bedf1d9f8e97884, type: 3}
       insertIndex: -1
-      addedObject: {fileID: 1994976015}
+      addedObject: {fileID: 1994976019}
   m_SourcePrefab: {fileID: 100100000, guid: 4dfa587b99012f241bedf1d9f8e97884, type: 3}
 --- !u!4 &1503365576 stripped
 Transform:
@@ -50597,25 +50770,13 @@ PrefabInstance:
       addedObject: {fileID: 1545883407}
     - targetCorrespondingSourceObject: {fileID: 919132149155446097, guid: 4dfa587b99012f241bedf1d9f8e97884, type: 3}
       insertIndex: -1
-      addedObject: {fileID: 1545883406}
+      addedObject: {fileID: 1545883410}
   m_SourcePrefab: {fileID: 100100000, guid: 4dfa587b99012f241bedf1d9f8e97884, type: 3}
 --- !u!4 &1545883403 stripped
 Transform:
   m_CorrespondingSourceObject: {fileID: -8679921383154817045, guid: 4dfa587b99012f241bedf1d9f8e97884, type: 3}
   m_PrefabInstance: {fileID: 1545883402}
   m_PrefabAsset: {fileID: 0}
---- !u!114 &1545883406
-MonoBehaviour:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 261519494}
-  m_Enabled: 1
-  m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: 83af4897e603db042a1f914c84c9a385, type: 3}
-  m_Name: 
-  m_EditorClassIdentifier: 
 --- !u!65 &1545883407
 BoxCollider:
   m_ObjectHideFlags: 0
@@ -50637,6 +50798,22 @@ BoxCollider:
   serializedVersion: 3
   m_Size: {x: 0.09413348, y: 0.10604571, z: 0.021082668}
   m_Center: {x: 0.021899216, y: -0.0063163647, z: 0.00045538685}
+--- !u!114 &1545883410
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 261519494}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 84f44621a8d0fa24d8dee4e9c77c2202, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  woodCount: {fileID: 619658939}
+  _wood: {fileID: 619658941}
+  wood: {fileID: 261519494}
+  durability: 3
 --- !u!1 &1547803864
 GameObject:
   m_ObjectHideFlags: 0
@@ -50880,29 +51057,13 @@ PrefabInstance:
       addedObject: {fileID: 1559567295}
     - targetCorrespondingSourceObject: {fileID: 919132149155446097, guid: 4dfa587b99012f241bedf1d9f8e97884, type: 3}
       insertIndex: -1
-      addedObject: {fileID: 1559567294}
+      addedObject: {fileID: 1559567298}
   m_SourcePrefab: {fileID: 100100000, guid: 4dfa587b99012f241bedf1d9f8e97884, type: 3}
 --- !u!4 &1559567291 stripped
 Transform:
   m_CorrespondingSourceObject: {fileID: -8679921383154817045, guid: 4dfa587b99012f241bedf1d9f8e97884, type: 3}
   m_PrefabInstance: {fileID: 1559567290}
   m_PrefabAsset: {fileID: 0}
---- !u!114 &1559567294
-MonoBehaviour:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 1491827173}
-  m_Enabled: 1
-  m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: 33523b3c15954934190b7c99674401e4, type: 3}
-  m_Name: 
-  m_EditorClassIdentifier: 
-  stoneCount: {fileID: 0}
-  _stone: {fileID: 0}
-  stone: {fileID: 0}
-  durability: 3
 --- !u!65 &1559567295
 BoxCollider:
   m_ObjectHideFlags: 0
@@ -50924,6 +51085,22 @@ BoxCollider:
   serializedVersion: 3
   m_Size: {x: 0.09413343, y: 0.106045656, z: 0.021082658}
   m_Center: {x: 0.021899207, y: -0.006315883, z: 0.00045535713}
+--- !u!114 &1559567298
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1491827173}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 84f44621a8d0fa24d8dee4e9c77c2202, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  woodCount: {fileID: 619658939}
+  _wood: {fileID: 619658941}
+  wood: {fileID: 1491827173}
+  durability: 3
 --- !u!1 &1564368470
 GameObject:
   m_ObjectHideFlags: 0
@@ -51674,7 +51851,7 @@ PrefabInstance:
       addedObject: {fileID: 2015915006}
     - targetCorrespondingSourceObject: {fileID: 919132149155446097, guid: 4dfa587b99012f241bedf1d9f8e97884, type: 3}
       insertIndex: -1
-      addedObject: {fileID: 2015915005}
+      addedObject: {fileID: 2015915009}
   m_SourcePrefab: {fileID: 100100000, guid: 4dfa587b99012f241bedf1d9f8e97884, type: 3}
 --- !u!4 &1588081484 stripped
 Transform:
@@ -51939,18 +52116,6 @@ GameObject:
   m_CorrespondingSourceObject: {fileID: 919132149155446097, guid: 4dfa587b99012f241bedf1d9f8e97884, type: 3}
   m_PrefabInstance: {fileID: 1421237081}
   m_PrefabAsset: {fileID: 0}
---- !u!114 &1594249133
-MonoBehaviour:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 1594249130}
-  m_Enabled: 1
-  m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: 83af4897e603db042a1f914c84c9a385, type: 3}
-  m_Name: 
-  m_EditorClassIdentifier: 
 --- !u!65 &1594249134
 BoxCollider:
   m_ObjectHideFlags: 0
@@ -51972,6 +52137,22 @@ BoxCollider:
   serializedVersion: 3
   m_Size: {x: 0.09413343, y: 0.106045656, z: 0.021082658}
   m_Center: {x: 0.021899087, y: -0.0063163596, z: 0.00045537204}
+--- !u!114 &1594249137
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1594249130}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 84f44621a8d0fa24d8dee4e9c77c2202, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  woodCount: {fileID: 619658939}
+  _wood: {fileID: 619658941}
+  wood: {fileID: 1594249130}
+  durability: 3
 --- !u!1 &1595244898
 GameObject:
   m_ObjectHideFlags: 0
@@ -52320,29 +52501,13 @@ PrefabInstance:
       addedObject: {fileID: 1603644108}
     - targetCorrespondingSourceObject: {fileID: 919132149155446097, guid: 4dfa587b99012f241bedf1d9f8e97884, type: 3}
       insertIndex: -1
-      addedObject: {fileID: 1603644107}
+      addedObject: {fileID: 1603644111}
   m_SourcePrefab: {fileID: 100100000, guid: 4dfa587b99012f241bedf1d9f8e97884, type: 3}
 --- !u!4 &1603644104 stripped
 Transform:
   m_CorrespondingSourceObject: {fileID: -8679921383154817045, guid: 4dfa587b99012f241bedf1d9f8e97884, type: 3}
   m_PrefabInstance: {fileID: 1603644103}
   m_PrefabAsset: {fileID: 0}
---- !u!114 &1603644107
-MonoBehaviour:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 1288873859}
-  m_Enabled: 1
-  m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: 33523b3c15954934190b7c99674401e4, type: 3}
-  m_Name: 
-  m_EditorClassIdentifier: 
-  stoneCount: {fileID: 0}
-  _stone: {fileID: 0}
-  stone: {fileID: 0}
-  durability: 3
 --- !u!65 &1603644108
 BoxCollider:
   m_ObjectHideFlags: 0
@@ -52364,6 +52529,22 @@ BoxCollider:
   serializedVersion: 3
   m_Size: {x: 0.09413343, y: 0.106045656, z: 0.021082658}
   m_Center: {x: 0.021899207, y: -0.0063163596, z: 0.00045537204}
+--- !u!114 &1603644111
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1288873859}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 84f44621a8d0fa24d8dee4e9c77c2202, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  woodCount: {fileID: 619658939}
+  _wood: {fileID: 619658941}
+  wood: {fileID: 1288873859}
+  durability: 3
 --- !u!1 &1604424283
 GameObject:
   m_ObjectHideFlags: 0
@@ -52977,18 +53158,6 @@ GameObject:
   m_CorrespondingSourceObject: {fileID: 919132149155446097, guid: 4dfa587b99012f241bedf1d9f8e97884, type: 3}
   m_PrefabInstance: {fileID: 1232631072}
   m_PrefabAsset: {fileID: 0}
---- !u!114 &1628261368
-MonoBehaviour:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 1628261365}
-  m_Enabled: 1
-  m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: 83af4897e603db042a1f914c84c9a385, type: 3}
-  m_Name: 
-  m_EditorClassIdentifier: 
 --- !u!65 &1628261369
 BoxCollider:
   m_ObjectHideFlags: 0
@@ -53010,6 +53179,22 @@ BoxCollider:
   serializedVersion: 3
   m_Size: {x: 0.09413343, y: 0.106045656, z: 0.021082658}
   m_Center: {x: 0.021899087, y: -0.0063163596, z: 0.00045537204}
+--- !u!114 &1628261372
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1628261365}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 84f44621a8d0fa24d8dee4e9c77c2202, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  woodCount: {fileID: 619658939}
+  _wood: {fileID: 619658941}
+  wood: {fileID: 1628261365}
+  durability: 3
 --- !u!1001 &1632036463
 PrefabInstance:
   m_ObjectHideFlags: 0
@@ -53555,25 +53740,13 @@ PrefabInstance:
       addedObject: {fileID: 1635840878}
     - targetCorrespondingSourceObject: {fileID: 919132149155446097, guid: 4dfa587b99012f241bedf1d9f8e97884, type: 3}
       insertIndex: -1
-      addedObject: {fileID: 1635840877}
+      addedObject: {fileID: 1635840881}
   m_SourcePrefab: {fileID: 100100000, guid: 4dfa587b99012f241bedf1d9f8e97884, type: 3}
 --- !u!4 &1635840874 stripped
 Transform:
   m_CorrespondingSourceObject: {fileID: -8679921383154817045, guid: 4dfa587b99012f241bedf1d9f8e97884, type: 3}
   m_PrefabInstance: {fileID: 1635840873}
   m_PrefabAsset: {fileID: 0}
---- !u!114 &1635840877
-MonoBehaviour:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 1415935856}
-  m_Enabled: 1
-  m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: 83af4897e603db042a1f914c84c9a385, type: 3}
-  m_Name: 
-  m_EditorClassIdentifier: 
 --- !u!65 &1635840878
 BoxCollider:
   m_ObjectHideFlags: 0
@@ -53595,6 +53768,22 @@ BoxCollider:
   serializedVersion: 3
   m_Size: {x: 0.09413343, y: 0.106045656, z: 0.021082658}
   m_Center: {x: 0.021899445, y: -0.006315883, z: 0.00045531243}
+--- !u!114 &1635840881
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1415935856}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 84f44621a8d0fa24d8dee4e9c77c2202, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  woodCount: {fileID: 619658939}
+  _wood: {fileID: 619658941}
+  wood: {fileID: 1415935856}
+  durability: 3
 --- !u!1 &1640451410
 GameObject:
   m_ObjectHideFlags: 0
@@ -54278,18 +54467,6 @@ GameObject:
   m_CorrespondingSourceObject: {fileID: 919132149155446097, guid: 4dfa587b99012f241bedf1d9f8e97884, type: 3}
   m_PrefabInstance: {fileID: 1025806837}
   m_PrefabAsset: {fileID: 0}
---- !u!114 &1655317015
-MonoBehaviour:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 1655317012}
-  m_Enabled: 1
-  m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: 83af4897e603db042a1f914c84c9a385, type: 3}
-  m_Name: 
-  m_EditorClassIdentifier: 
 --- !u!65 &1655317016
 BoxCollider:
   m_ObjectHideFlags: 0
@@ -54311,6 +54488,22 @@ BoxCollider:
   serializedVersion: 3
   m_Size: {x: 0.09413343, y: 0.106045656, z: 0.021082658}
   m_Center: {x: 0.021899087, y: -0.0063163596, z: 0.00045537204}
+--- !u!114 &1655317019
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1655317012}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 84f44621a8d0fa24d8dee4e9c77c2202, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  woodCount: {fileID: 619658939}
+  _wood: {fileID: 619658941}
+  wood: {fileID: 1655317012}
+  durability: 3
 --- !u!1 &1655917443 stripped
 GameObject:
   m_CorrespondingSourceObject: {fileID: 919132149155446097, guid: 4dfa587b99012f241bedf1d9f8e97884, type: 3}
@@ -54507,22 +54700,6 @@ GameObject:
   m_CorrespondingSourceObject: {fileID: 919132149155446097, guid: 4dfa587b99012f241bedf1d9f8e97884, type: 3}
   m_PrefabInstance: {fileID: 1129859825}
   m_PrefabAsset: {fileID: 0}
---- !u!114 &1663547843
-MonoBehaviour:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 1663547840}
-  m_Enabled: 1
-  m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: 33523b3c15954934190b7c99674401e4, type: 3}
-  m_Name: 
-  m_EditorClassIdentifier: 
-  stoneCount: {fileID: 0}
-  _stone: {fileID: 0}
-  stone: {fileID: 0}
-  durability: 3
 --- !u!65 &1663547844
 BoxCollider:
   m_ObjectHideFlags: 0
@@ -54544,6 +54721,22 @@ BoxCollider:
   serializedVersion: 3
   m_Size: {x: 0.09413343, y: 0.106045656, z: 0.021082658}
   m_Center: {x: 0.021899207, y: -0.006315883, z: 0.00045535713}
+--- !u!114 &1663547847
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1663547840}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 84f44621a8d0fa24d8dee4e9c77c2202, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  woodCount: {fileID: 619658939}
+  _wood: {fileID: 619658941}
+  wood: {fileID: 1663547840}
+  durability: 3
 --- !u!1 &1671808985
 GameObject:
   m_ObjectHideFlags: 0
@@ -54829,29 +55022,13 @@ PrefabInstance:
       addedObject: {fileID: 1681168914}
     - targetCorrespondingSourceObject: {fileID: 919132149155446097, guid: 4dfa587b99012f241bedf1d9f8e97884, type: 3}
       insertIndex: -1
-      addedObject: {fileID: 1681168913}
+      addedObject: {fileID: 1681168917}
   m_SourcePrefab: {fileID: 100100000, guid: 4dfa587b99012f241bedf1d9f8e97884, type: 3}
 --- !u!4 &1681168910 stripped
 Transform:
   m_CorrespondingSourceObject: {fileID: -8679921383154817045, guid: 4dfa587b99012f241bedf1d9f8e97884, type: 3}
   m_PrefabInstance: {fileID: 1681168909}
   m_PrefabAsset: {fileID: 0}
---- !u!114 &1681168913
-MonoBehaviour:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 321977155}
-  m_Enabled: 1
-  m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: 33523b3c15954934190b7c99674401e4, type: 3}
-  m_Name: 
-  m_EditorClassIdentifier: 
-  stoneCount: {fileID: 0}
-  _stone: {fileID: 0}
-  stone: {fileID: 0}
-  durability: 3
 --- !u!65 &1681168914
 BoxCollider:
   m_ObjectHideFlags: 0
@@ -54873,6 +55050,22 @@ BoxCollider:
   serializedVersion: 3
   m_Size: {x: 0.09413343, y: 0.106045656, z: 0.021082658}
   m_Center: {x: 0.021899207, y: -0.0063163596, z: 0.00045528263}
+--- !u!114 &1681168917
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 321977155}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 84f44621a8d0fa24d8dee4e9c77c2202, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  woodCount: {fileID: 619658939}
+  _wood: {fileID: 619658941}
+  wood: {fileID: 321977155}
+  durability: 3
 --- !u!1 &1689919041
 GameObject:
   m_ObjectHideFlags: 0
@@ -55014,7 +55207,7 @@ PrefabInstance:
       addedObject: {fileID: 1962299887}
     - targetCorrespondingSourceObject: {fileID: 919132149155446097, guid: 4dfa587b99012f241bedf1d9f8e97884, type: 3}
       insertIndex: -1
-      addedObject: {fileID: 1962299886}
+      addedObject: {fileID: 1962299890}
   m_SourcePrefab: {fileID: 100100000, guid: 4dfa587b99012f241bedf1d9f8e97884, type: 3}
 --- !u!4 &1691837560 stripped
 Transform:
@@ -55132,18 +55325,6 @@ GameObject:
   m_CorrespondingSourceObject: {fileID: 919132149155446097, guid: 4dfa587b99012f241bedf1d9f8e97884, type: 3}
   m_PrefabInstance: {fileID: 147548918}
   m_PrefabAsset: {fileID: 0}
---- !u!114 &1699287748
-MonoBehaviour:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 1699287745}
-  m_Enabled: 1
-  m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: 83af4897e603db042a1f914c84c9a385, type: 3}
-  m_Name: 
-  m_EditorClassIdentifier: 
 --- !u!65 &1699287749
 BoxCollider:
   m_ObjectHideFlags: 0
@@ -55165,6 +55346,22 @@ BoxCollider:
   serializedVersion: 3
   m_Size: {x: 0.09413343, y: 0.106045656, z: 0.021082658}
   m_Center: {x: 0.021899445, y: -0.0063163596, z: 0.00045525283}
+--- !u!114 &1699287752
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1699287745}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 84f44621a8d0fa24d8dee4e9c77c2202, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  woodCount: {fileID: 619658939}
+  _wood: {fileID: 619658941}
+  wood: {fileID: 1699287745}
+  durability: 3
 --- !u!1 &1702565972
 GameObject:
   m_ObjectHideFlags: 0
@@ -55342,27 +55539,12 @@ PrefabInstance:
     - targetCorrespondingSourceObject: {fileID: 919132149155446097, guid: 4dfa587b99012f241bedf1d9f8e97884, type: 3}
       insertIndex: -1
       addedObject: {fileID: 1702972551}
-    - targetCorrespondingSourceObject: {fileID: 919132149155446097, guid: 4dfa587b99012f241bedf1d9f8e97884, type: 3}
-      insertIndex: -1
-      addedObject: {fileID: 1702972550}
   m_SourcePrefab: {fileID: 100100000, guid: 4dfa587b99012f241bedf1d9f8e97884, type: 3}
 --- !u!4 &1702972547 stripped
 Transform:
   m_CorrespondingSourceObject: {fileID: -8679921383154817045, guid: 4dfa587b99012f241bedf1d9f8e97884, type: 3}
   m_PrefabInstance: {fileID: 1702972546}
   m_PrefabAsset: {fileID: 0}
---- !u!114 &1702972550
-MonoBehaviour:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 1655917443}
-  m_Enabled: 1
-  m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: 83af4897e603db042a1f914c84c9a385, type: 3}
-  m_Name: 
-  m_EditorClassIdentifier: 
 --- !u!65 &1702972551
 BoxCollider:
   m_ObjectHideFlags: 0
@@ -57450,27 +57632,12 @@ PrefabInstance:
     - targetCorrespondingSourceObject: {fileID: 919132149155446097, guid: 4dfa587b99012f241bedf1d9f8e97884, type: 3}
       insertIndex: -1
       addedObject: {fileID: 1770366444}
-    - targetCorrespondingSourceObject: {fileID: 919132149155446097, guid: 4dfa587b99012f241bedf1d9f8e97884, type: 3}
-      insertIndex: -1
-      addedObject: {fileID: 1770366443}
   m_SourcePrefab: {fileID: 100100000, guid: 4dfa587b99012f241bedf1d9f8e97884, type: 3}
 --- !u!4 &1770366440 stripped
 Transform:
   m_CorrespondingSourceObject: {fileID: -8679921383154817045, guid: 4dfa587b99012f241bedf1d9f8e97884, type: 3}
   m_PrefabInstance: {fileID: 1770366439}
   m_PrefabAsset: {fileID: 0}
---- !u!114 &1770366443
-MonoBehaviour:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 666272699}
-  m_Enabled: 1
-  m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: 83af4897e603db042a1f914c84c9a385, type: 3}
-  m_Name: 
-  m_EditorClassIdentifier: 
 --- !u!65 &1770366444
 BoxCollider:
   m_ObjectHideFlags: 0
@@ -57565,25 +57732,13 @@ PrefabInstance:
       addedObject: {fileID: 1772109027}
     - targetCorrespondingSourceObject: {fileID: 919132149155446097, guid: 4dfa587b99012f241bedf1d9f8e97884, type: 3}
       insertIndex: -1
-      addedObject: {fileID: 1772109026}
+      addedObject: {fileID: 1772109030}
   m_SourcePrefab: {fileID: 100100000, guid: 4dfa587b99012f241bedf1d9f8e97884, type: 3}
 --- !u!4 &1772109023 stripped
 Transform:
   m_CorrespondingSourceObject: {fileID: -8679921383154817045, guid: 4dfa587b99012f241bedf1d9f8e97884, type: 3}
   m_PrefabInstance: {fileID: 1772109022}
   m_PrefabAsset: {fileID: 0}
---- !u!114 &1772109026
-MonoBehaviour:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 1418863176}
-  m_Enabled: 1
-  m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: 83af4897e603db042a1f914c84c9a385, type: 3}
-  m_Name: 
-  m_EditorClassIdentifier: 
 --- !u!65 &1772109027
 BoxCollider:
   m_ObjectHideFlags: 0
@@ -57605,6 +57760,22 @@ BoxCollider:
   serializedVersion: 3
   m_Size: {x: 0.09413343, y: 0.106045656, z: 0.021082658}
   m_Center: {x: 0.021899087, y: -0.0063163596, z: 0.00045543164}
+--- !u!114 &1772109030
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1418863176}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 84f44621a8d0fa24d8dee4e9c77c2202, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  woodCount: {fileID: 619658939}
+  _wood: {fileID: 619658941}
+  wood: {fileID: 1418863176}
+  durability: 3
 --- !u!1 &1772440226 stripped
 GameObject:
   m_CorrespondingSourceObject: {fileID: 7463307759790608978, guid: 77b4d252a330fd94199e3a5b8bd78d4a, type: 3}
@@ -58138,29 +58309,13 @@ PrefabInstance:
       addedObject: {fileID: 1815964332}
     - targetCorrespondingSourceObject: {fileID: 919132149155446097, guid: 4dfa587b99012f241bedf1d9f8e97884, type: 3}
       insertIndex: -1
-      addedObject: {fileID: 1815964331}
+      addedObject: {fileID: 1815964335}
   m_SourcePrefab: {fileID: 100100000, guid: 4dfa587b99012f241bedf1d9f8e97884, type: 3}
 --- !u!4 &1815964328 stripped
 Transform:
   m_CorrespondingSourceObject: {fileID: -8679921383154817045, guid: 4dfa587b99012f241bedf1d9f8e97884, type: 3}
   m_PrefabInstance: {fileID: 1815964327}
   m_PrefabAsset: {fileID: 0}
---- !u!114 &1815964331
-MonoBehaviour:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 903952464}
-  m_Enabled: 1
-  m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: 33523b3c15954934190b7c99674401e4, type: 3}
-  m_Name: 
-  m_EditorClassIdentifier: 
-  stoneCount: {fileID: 0}
-  _stone: {fileID: 0}
-  stone: {fileID: 0}
-  durability: 3
 --- !u!65 &1815964332
 BoxCollider:
   m_ObjectHideFlags: 0
@@ -58182,6 +58337,22 @@ BoxCollider:
   serializedVersion: 3
   m_Size: {x: 0.09413343, y: 0.106045656, z: 0.021082658}
   m_Center: {x: 0.021899207, y: -0.006315883, z: 0.00045532733}
+--- !u!114 &1815964335
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 903952464}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 84f44621a8d0fa24d8dee4e9c77c2202, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  woodCount: {fileID: 619658939}
+  _wood: {fileID: 619658941}
+  wood: {fileID: 903952464}
+  durability: 3
 --- !u!1 &1818591390
 GameObject:
   m_ObjectHideFlags: 0
@@ -59275,18 +59446,6 @@ GameObject:
   m_CorrespondingSourceObject: {fileID: 919132149155446097, guid: 4dfa587b99012f241bedf1d9f8e97884, type: 3}
   m_PrefabInstance: {fileID: 1490601544}
   m_PrefabAsset: {fileID: 0}
---- !u!114 &1849366917
-MonoBehaviour:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 1849366914}
-  m_Enabled: 1
-  m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: 83af4897e603db042a1f914c84c9a385, type: 3}
-  m_Name: 
-  m_EditorClassIdentifier: 
 --- !u!65 &1849366918
 BoxCollider:
   m_ObjectHideFlags: 0
@@ -59308,6 +59467,22 @@ BoxCollider:
   serializedVersion: 3
   m_Size: {x: 0.09413343, y: 0.106045656, z: 0.021082658}
   m_Center: {x: 0.021899207, y: -0.0063163596, z: 0.00045537204}
+--- !u!114 &1849366921
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1849366914}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 84f44621a8d0fa24d8dee4e9c77c2202, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  woodCount: {fileID: 619658939}
+  _wood: {fileID: 619658941}
+  wood: {fileID: 1849366914}
+  durability: 3
 --- !u!1001 &1850543387
 PrefabInstance:
   m_ObjectHideFlags: 0
@@ -59381,25 +59556,13 @@ PrefabInstance:
       addedObject: {fileID: 1850543392}
     - targetCorrespondingSourceObject: {fileID: 919132149155446097, guid: 4dfa587b99012f241bedf1d9f8e97884, type: 3}
       insertIndex: -1
-      addedObject: {fileID: 1850543391}
+      addedObject: {fileID: 1850543395}
   m_SourcePrefab: {fileID: 100100000, guid: 4dfa587b99012f241bedf1d9f8e97884, type: 3}
 --- !u!4 &1850543388 stripped
 Transform:
   m_CorrespondingSourceObject: {fileID: -8679921383154817045, guid: 4dfa587b99012f241bedf1d9f8e97884, type: 3}
   m_PrefabInstance: {fileID: 1850543387}
   m_PrefabAsset: {fileID: 0}
---- !u!114 &1850543391
-MonoBehaviour:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 1038430625}
-  m_Enabled: 1
-  m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: 83af4897e603db042a1f914c84c9a385, type: 3}
-  m_Name: 
-  m_EditorClassIdentifier: 
 --- !u!65 &1850543392
 BoxCollider:
   m_ObjectHideFlags: 0
@@ -59421,6 +59584,22 @@ BoxCollider:
   serializedVersion: 3
   m_Size: {x: 0.09413343, y: 0.106045656, z: 0.021082658}
   m_Center: {x: 0.021899028, y: -0.006316598, z: 0.00045536086}
+--- !u!114 &1850543395
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1038430625}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 84f44621a8d0fa24d8dee4e9c77c2202, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  woodCount: {fileID: 619658939}
+  _wood: {fileID: 619658941}
+  wood: {fileID: 1038430625}
+  durability: 3
 --- !u!1001 &1852291738
 PrefabInstance:
   m_ObjectHideFlags: 0
@@ -59700,25 +59879,13 @@ PrefabInstance:
       addedObject: {fileID: 1862619063}
     - targetCorrespondingSourceObject: {fileID: 919132149155446097, guid: 4dfa587b99012f241bedf1d9f8e97884, type: 3}
       insertIndex: -1
-      addedObject: {fileID: 1862619062}
+      addedObject: {fileID: 1862619066}
   m_SourcePrefab: {fileID: 100100000, guid: 4dfa587b99012f241bedf1d9f8e97884, type: 3}
 --- !u!4 &1862619059 stripped
 Transform:
   m_CorrespondingSourceObject: {fileID: -8679921383154817045, guid: 4dfa587b99012f241bedf1d9f8e97884, type: 3}
   m_PrefabInstance: {fileID: 1862619058}
   m_PrefabAsset: {fileID: 0}
---- !u!114 &1862619062
-MonoBehaviour:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 476028880}
-  m_Enabled: 1
-  m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: 83af4897e603db042a1f914c84c9a385, type: 3}
-  m_Name: 
-  m_EditorClassIdentifier: 
 --- !u!65 &1862619063
 BoxCollider:
   m_ObjectHideFlags: 0
@@ -59740,6 +59907,22 @@ BoxCollider:
   serializedVersion: 3
   m_Size: {x: 0.09413343, y: 0.106045656, z: 0.021082658}
   m_Center: {x: 0.021899028, y: -0.006316598, z: 0.0004553534}
+--- !u!114 &1862619066
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 476028880}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 84f44621a8d0fa24d8dee4e9c77c2202, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  woodCount: {fileID: 619658939}
+  _wood: {fileID: 619658941}
+  wood: {fileID: 476028880}
+  durability: 3
 --- !u!1 &1869455778
 GameObject:
   m_ObjectHideFlags: 0
@@ -60006,18 +60189,6 @@ GameObject:
   m_CorrespondingSourceObject: {fileID: 919132149155446097, guid: 4dfa587b99012f241bedf1d9f8e97884, type: 3}
   m_PrefabInstance: {fileID: 1076041257}
   m_PrefabAsset: {fileID: 0}
---- !u!114 &1873459914
-MonoBehaviour:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 1873459911}
-  m_Enabled: 1
-  m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: 83af4897e603db042a1f914c84c9a385, type: 3}
-  m_Name: 
-  m_EditorClassIdentifier: 
 --- !u!65 &1873459915
 BoxCollider:
   m_ObjectHideFlags: 0
@@ -60039,6 +60210,22 @@ BoxCollider:
   serializedVersion: 3
   m_Size: {x: 0.09413343, y: 0.106045656, z: 0.021082658}
   m_Center: {x: 0.021899028, y: -0.006316598, z: 0.00045534968}
+--- !u!114 &1873459918
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1873459911}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 84f44621a8d0fa24d8dee4e9c77c2202, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  woodCount: {fileID: 619658939}
+  _wood: {fileID: 619658941}
+  wood: {fileID: 1873459911}
+  durability: 3
 --- !u!1 &1879300151
 GameObject:
   m_ObjectHideFlags: 0
@@ -60272,18 +60459,6 @@ GameObject:
   m_CorrespondingSourceObject: {fileID: 919132149155446097, guid: 4dfa587b99012f241bedf1d9f8e97884, type: 3}
   m_PrefabInstance: {fileID: 1043977961}
   m_PrefabAsset: {fileID: 0}
---- !u!114 &1892734067
-MonoBehaviour:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 1892734064}
-  m_Enabled: 1
-  m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: 83af4897e603db042a1f914c84c9a385, type: 3}
-  m_Name: 
-  m_EditorClassIdentifier: 
 --- !u!65 &1892734068
 BoxCollider:
   m_ObjectHideFlags: 0
@@ -60850,25 +61025,13 @@ PrefabInstance:
       addedObject: {fileID: 1915244026}
     - targetCorrespondingSourceObject: {fileID: 919132149155446097, guid: 4dfa587b99012f241bedf1d9f8e97884, type: 3}
       insertIndex: -1
-      addedObject: {fileID: 1915244025}
+      addedObject: {fileID: 1915244029}
   m_SourcePrefab: {fileID: 100100000, guid: 4dfa587b99012f241bedf1d9f8e97884, type: 3}
 --- !u!4 &1915244022 stripped
 Transform:
   m_CorrespondingSourceObject: {fileID: -8679921383154817045, guid: 4dfa587b99012f241bedf1d9f8e97884, type: 3}
   m_PrefabInstance: {fileID: 1915244021}
   m_PrefabAsset: {fileID: 0}
---- !u!114 &1915244025
-MonoBehaviour:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 1459784909}
-  m_Enabled: 1
-  m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: 83af4897e603db042a1f914c84c9a385, type: 3}
-  m_Name: 
-  m_EditorClassIdentifier: 
 --- !u!65 &1915244026
 BoxCollider:
   m_ObjectHideFlags: 0
@@ -60890,6 +61053,22 @@ BoxCollider:
   serializedVersion: 3
   m_Size: {x: 0.09413343, y: 0.106045656, z: 0.021082658}
   m_Center: {x: 0.021899087, y: -0.006316121, z: 0.00045537204}
+--- !u!114 &1915244029
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1459784909}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 84f44621a8d0fa24d8dee4e9c77c2202, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  woodCount: {fileID: 619658939}
+  _wood: {fileID: 619658941}
+  wood: {fileID: 1459784909}
+  durability: 3
 --- !u!1 &1922583744 stripped
 GameObject:
   m_CorrespondingSourceObject: {fileID: 919132149155446097, guid: 77b4d252a330fd94199e3a5b8bd78d4a, type: 3}
@@ -60942,18 +61121,6 @@ GameObject:
   m_CorrespondingSourceObject: {fileID: 919132149155446097, guid: 4dfa587b99012f241bedf1d9f8e97884, type: 3}
   m_PrefabInstance: {fileID: 125376483}
   m_PrefabAsset: {fileID: 0}
---- !u!114 &1928626580
-MonoBehaviour:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 1928626577}
-  m_Enabled: 1
-  m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: 83af4897e603db042a1f914c84c9a385, type: 3}
-  m_Name: 
-  m_EditorClassIdentifier: 
 --- !u!65 &1928626581
 BoxCollider:
   m_ObjectHideFlags: 0
@@ -60975,6 +61142,22 @@ BoxCollider:
   serializedVersion: 3
   m_Size: {x: 0.09413343, y: 0.106045656, z: 0.021082658}
   m_Center: {x: 0.021899087, y: -0.0063163596, z: 0.00045549124}
+--- !u!114 &1928626584
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1928626577}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 84f44621a8d0fa24d8dee4e9c77c2202, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  woodCount: {fileID: 619658939}
+  _wood: {fileID: 619658941}
+  wood: {fileID: 1928626577}
+  durability: 3
 --- !u!1 &1929746518
 GameObject:
   m_ObjectHideFlags: 0
@@ -61564,18 +61747,6 @@ GameObject:
   m_CorrespondingSourceObject: {fileID: 919132149155446097, guid: 4dfa587b99012f241bedf1d9f8e97884, type: 3}
   m_PrefabInstance: {fileID: 1691837559}
   m_PrefabAsset: {fileID: 0}
---- !u!114 &1962299886
-MonoBehaviour:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 1962299883}
-  m_Enabled: 1
-  m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: 83af4897e603db042a1f914c84c9a385, type: 3}
-  m_Name: 
-  m_EditorClassIdentifier: 
 --- !u!65 &1962299887
 BoxCollider:
   m_ObjectHideFlags: 0
@@ -61597,6 +61768,22 @@ BoxCollider:
   serializedVersion: 3
   m_Size: {x: 0.09413343, y: 0.106045656, z: 0.021082658}
   m_Center: {x: 0.021899087, y: -0.006316121, z: 0.00045537204}
+--- !u!114 &1962299890
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1962299883}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 84f44621a8d0fa24d8dee4e9c77c2202, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  woodCount: {fileID: 619658939}
+  _wood: {fileID: 619658941}
+  wood: {fileID: 1962299883}
+  durability: 3
 --- !u!1001 &1967131549
 PrefabInstance:
   m_ObjectHideFlags: 0
@@ -61670,25 +61857,13 @@ PrefabInstance:
       addedObject: {fileID: 1967131554}
     - targetCorrespondingSourceObject: {fileID: 919132149155446097, guid: 4dfa587b99012f241bedf1d9f8e97884, type: 3}
       insertIndex: -1
-      addedObject: {fileID: 1967131553}
+      addedObject: {fileID: 1967131557}
   m_SourcePrefab: {fileID: 100100000, guid: 4dfa587b99012f241bedf1d9f8e97884, type: 3}
 --- !u!4 &1967131550 stripped
 Transform:
   m_CorrespondingSourceObject: {fileID: -8679921383154817045, guid: 4dfa587b99012f241bedf1d9f8e97884, type: 3}
   m_PrefabInstance: {fileID: 1967131549}
   m_PrefabAsset: {fileID: 0}
---- !u!114 &1967131553
-MonoBehaviour:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 66812070}
-  m_Enabled: 1
-  m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: 83af4897e603db042a1f914c84c9a385, type: 3}
-  m_Name: 
-  m_EditorClassIdentifier: 
 --- !u!65 &1967131554
 BoxCollider:
   m_ObjectHideFlags: 0
@@ -61710,6 +61885,22 @@ BoxCollider:
   serializedVersion: 3
   m_Size: {x: 0.09413343, y: 0.106045656, z: 0.021082658}
   m_Center: {x: 0.021899207, y: -0.0063163596, z: 0.00045537204}
+--- !u!114 &1967131557
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 66812070}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 84f44621a8d0fa24d8dee4e9c77c2202, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  woodCount: {fileID: 619658939}
+  _wood: {fileID: 619658941}
+  wood: {fileID: 66812070}
+  durability: 3
 --- !u!1 &1967636265 stripped
 GameObject:
   m_CorrespondingSourceObject: {fileID: 919132149155446097, guid: 77b4d252a330fd94199e3a5b8bd78d4a, type: 3}
@@ -62147,18 +62338,6 @@ GameObject:
   m_CorrespondingSourceObject: {fileID: 919132149155446097, guid: 4dfa587b99012f241bedf1d9f8e97884, type: 3}
   m_PrefabInstance: {fileID: 1503365575}
   m_PrefabAsset: {fileID: 0}
---- !u!114 &1994976015
-MonoBehaviour:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 1994976012}
-  m_Enabled: 1
-  m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: 83af4897e603db042a1f914c84c9a385, type: 3}
-  m_Name: 
-  m_EditorClassIdentifier: 
 --- !u!65 &1994976016
 BoxCollider:
   m_ObjectHideFlags: 0
@@ -62180,6 +62359,22 @@ BoxCollider:
   serializedVersion: 3
   m_Size: {x: 0.09413343, y: 0.106045656, z: 0.021082658}
   m_Center: {x: 0.021899087, y: -0.0063163596, z: 0.00045531243}
+--- !u!114 &1994976019
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1994976012}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 84f44621a8d0fa24d8dee4e9c77c2202, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  woodCount: {fileID: 619658939}
+  _wood: {fileID: 619658941}
+  wood: {fileID: 1994976012}
+  durability: 3
 --- !u!1 &1995333031
 GameObject:
   m_ObjectHideFlags: 0
@@ -63143,22 +63338,6 @@ GameObject:
   m_CorrespondingSourceObject: {fileID: 919132149155446097, guid: 4dfa587b99012f241bedf1d9f8e97884, type: 3}
   m_PrefabInstance: {fileID: 1588081483}
   m_PrefabAsset: {fileID: 0}
---- !u!114 &2015915005
-MonoBehaviour:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 2015915002}
-  m_Enabled: 1
-  m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: 33523b3c15954934190b7c99674401e4, type: 3}
-  m_Name: 
-  m_EditorClassIdentifier: 
-  stoneCount: {fileID: 0}
-  _stone: {fileID: 0}
-  stone: {fileID: 0}
-  durability: 3
 --- !u!65 &2015915006
 BoxCollider:
   m_ObjectHideFlags: 0
@@ -63180,6 +63359,22 @@ BoxCollider:
   serializedVersion: 3
   m_Size: {x: 0.09413343, y: 0.106045656, z: 0.021082658}
   m_Center: {x: 0.021899207, y: -0.0063163596, z: 0.00045531243}
+--- !u!114 &2015915009
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 2015915002}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 84f44621a8d0fa24d8dee4e9c77c2202, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  woodCount: {fileID: 619658939}
+  _wood: {fileID: 619658941}
+  wood: {fileID: 2015915002}
+  durability: 3
 --- !u!1 &2015918209
 GameObject:
   m_ObjectHideFlags: 0
@@ -63504,25 +63699,13 @@ PrefabInstance:
       addedObject: {fileID: 2022447573}
     - targetCorrespondingSourceObject: {fileID: 919132149155446097, guid: 4dfa587b99012f241bedf1d9f8e97884, type: 3}
       insertIndex: -1
-      addedObject: {fileID: 2022447572}
+      addedObject: {fileID: 2022447576}
   m_SourcePrefab: {fileID: 100100000, guid: 4dfa587b99012f241bedf1d9f8e97884, type: 3}
 --- !u!4 &2022447569 stripped
 Transform:
   m_CorrespondingSourceObject: {fileID: -8679921383154817045, guid: 4dfa587b99012f241bedf1d9f8e97884, type: 3}
   m_PrefabInstance: {fileID: 2022447568}
   m_PrefabAsset: {fileID: 0}
---- !u!114 &2022447572
-MonoBehaviour:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 104010907}
-  m_Enabled: 1
-  m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: 83af4897e603db042a1f914c84c9a385, type: 3}
-  m_Name: 
-  m_EditorClassIdentifier: 
 --- !u!65 &2022447573
 BoxCollider:
   m_ObjectHideFlags: 0
@@ -63544,6 +63727,22 @@ BoxCollider:
   serializedVersion: 3
   m_Size: {x: 0.09413343, y: 0.106045656, z: 0.021082658}
   m_Center: {x: 0.021899207, y: -0.0063163596, z: 0.00045537204}
+--- !u!114 &2022447576
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 104010907}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 84f44621a8d0fa24d8dee4e9c77c2202, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  woodCount: {fileID: 619658939}
+  _wood: {fileID: 619658941}
+  wood: {fileID: 104010907}
+  durability: 3
 --- !u!1 &2024171803
 GameObject:
   m_ObjectHideFlags: 0
@@ -64684,22 +64883,6 @@ GameObject:
   m_CorrespondingSourceObject: {fileID: 919132149155446097, guid: 4dfa587b99012f241bedf1d9f8e97884, type: 3}
   m_PrefabInstance: {fileID: 1096928805}
   m_PrefabAsset: {fileID: 0}
---- !u!114 &2056476253
-MonoBehaviour:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 2056476250}
-  m_Enabled: 1
-  m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: 33523b3c15954934190b7c99674401e4, type: 3}
-  m_Name: 
-  m_EditorClassIdentifier: 
-  stoneCount: {fileID: 0}
-  _stone: {fileID: 0}
-  stone: {fileID: 0}
-  durability: 3
 --- !u!65 &2056476254
 BoxCollider:
   m_ObjectHideFlags: 0
@@ -64721,6 +64904,22 @@ BoxCollider:
   serializedVersion: 3
   m_Size: {x: 0.09413343, y: 0.106045656, z: 0.021082658}
   m_Center: {x: 0.021899207, y: -0.0063163596, z: 0.00045531243}
+--- !u!114 &2056476257
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 2056476250}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 84f44621a8d0fa24d8dee4e9c77c2202, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  woodCount: {fileID: 619658939}
+  _wood: {fileID: 619658941}
+  wood: {fileID: 2056476250}
+  durability: 3
 --- !u!1001 &2056937019
 PrefabInstance:
   m_ObjectHideFlags: 0
@@ -64794,25 +64993,13 @@ PrefabInstance:
       addedObject: {fileID: 2056937024}
     - targetCorrespondingSourceObject: {fileID: 919132149155446097, guid: 4dfa587b99012f241bedf1d9f8e97884, type: 3}
       insertIndex: -1
-      addedObject: {fileID: 2056937023}
+      addedObject: {fileID: 2056937027}
   m_SourcePrefab: {fileID: 100100000, guid: 4dfa587b99012f241bedf1d9f8e97884, type: 3}
 --- !u!4 &2056937020 stripped
 Transform:
   m_CorrespondingSourceObject: {fileID: -8679921383154817045, guid: 4dfa587b99012f241bedf1d9f8e97884, type: 3}
   m_PrefabInstance: {fileID: 2056937019}
   m_PrefabAsset: {fileID: 0}
---- !u!114 &2056937023
-MonoBehaviour:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 1321243234}
-  m_Enabled: 1
-  m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: 83af4897e603db042a1f914c84c9a385, type: 3}
-  m_Name: 
-  m_EditorClassIdentifier: 
 --- !u!65 &2056937024
 BoxCollider:
   m_ObjectHideFlags: 0
@@ -64834,6 +65021,22 @@ BoxCollider:
   serializedVersion: 3
   m_Size: {x: 0.09413343, y: 0.106045656, z: 0.021082658}
   m_Center: {x: 0.021899087, y: -0.006316121, z: 0.00045537204}
+--- !u!114 &2056937027
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1321243234}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 84f44621a8d0fa24d8dee4e9c77c2202, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  woodCount: {fileID: 619658939}
+  _wood: {fileID: 619658941}
+  wood: {fileID: 1321243234}
+  durability: 3
 --- !u!1 &2058580063
 GameObject:
   m_ObjectHideFlags: 0
@@ -65522,25 +65725,13 @@ PrefabInstance:
       addedObject: {fileID: 2084151723}
     - targetCorrespondingSourceObject: {fileID: 919132149155446097, guid: 4dfa587b99012f241bedf1d9f8e97884, type: 3}
       insertIndex: -1
-      addedObject: {fileID: 2084151722}
+      addedObject: {fileID: 2084151726}
   m_SourcePrefab: {fileID: 100100000, guid: 4dfa587b99012f241bedf1d9f8e97884, type: 3}
 --- !u!4 &2084151719 stripped
 Transform:
   m_CorrespondingSourceObject: {fileID: -8679921383154817045, guid: 4dfa587b99012f241bedf1d9f8e97884, type: 3}
   m_PrefabInstance: {fileID: 2084151718}
   m_PrefabAsset: {fileID: 0}
---- !u!114 &2084151722
-MonoBehaviour:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 1513933346}
-  m_Enabled: 1
-  m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: 83af4897e603db042a1f914c84c9a385, type: 3}
-  m_Name: 
-  m_EditorClassIdentifier: 
 --- !u!65 &2084151723
 BoxCollider:
   m_ObjectHideFlags: 0
@@ -65562,6 +65753,22 @@ BoxCollider:
   serializedVersion: 3
   m_Size: {x: 0.09413343, y: 0.106045656, z: 0.021082658}
   m_Center: {x: 0.021899087, y: -0.006316121, z: 0.00045537204}
+--- !u!114 &2084151726
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1513933346}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 84f44621a8d0fa24d8dee4e9c77c2202, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  woodCount: {fileID: 619658939}
+  _wood: {fileID: 619658941}
+  wood: {fileID: 1513933346}
+  durability: 3
 --- !u!1 &2087137976
 GameObject:
   m_ObjectHideFlags: 0
@@ -65952,10 +66159,10 @@ PrefabInstance:
     m_AddedComponents:
     - targetCorrespondingSourceObject: {fileID: 919132149155446097, guid: 4dfa587b99012f241bedf1d9f8e97884, type: 3}
       insertIndex: -1
-      addedObject: {fileID: 2101876825}
+      addedObject: {fileID: 2101876826}
     - targetCorrespondingSourceObject: {fileID: 919132149155446097, guid: 4dfa587b99012f241bedf1d9f8e97884, type: 3}
       insertIndex: -1
-      addedObject: {fileID: 2101876826}
+      addedObject: {fileID: 2101876829}
   m_SourcePrefab: {fileID: 100100000, guid: 4dfa587b99012f241bedf1d9f8e97884, type: 3}
 --- !u!4 &2095267269 stripped
 Transform:
@@ -66285,18 +66492,6 @@ GameObject:
   m_CorrespondingSourceObject: {fileID: 919132149155446097, guid: 4dfa587b99012f241bedf1d9f8e97884, type: 3}
   m_PrefabInstance: {fileID: 2095267268}
   m_PrefabAsset: {fileID: 0}
---- !u!114 &2101876825
-MonoBehaviour:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 2101876822}
-  m_Enabled: 1
-  m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: 83af4897e603db042a1f914c84c9a385, type: 3}
-  m_Name: 
-  m_EditorClassIdentifier: 
 --- !u!65 &2101876826
 BoxCollider:
   m_ObjectHideFlags: 0
@@ -66318,6 +66513,22 @@ BoxCollider:
   serializedVersion: 3
   m_Size: {x: 0.09413343, y: 0.106045656, z: 0.021082658}
   m_Center: {x: 0.021899117, y: -0.0063163596, z: 0.00045537204}
+--- !u!114 &2101876829
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 2101876822}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 84f44621a8d0fa24d8dee4e9c77c2202, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  woodCount: {fileID: 619658939}
+  _wood: {fileID: 619658941}
+  wood: {fileID: 2101876822}
+  durability: 3
 --- !u!1 &2105972419
 GameObject:
   m_ObjectHideFlags: 0
@@ -67039,25 +67250,13 @@ PrefabInstance:
       addedObject: {fileID: 2129942326}
     - targetCorrespondingSourceObject: {fileID: 919132149155446097, guid: 4dfa587b99012f241bedf1d9f8e97884, type: 3}
       insertIndex: -1
-      addedObject: {fileID: 2129942325}
+      addedObject: {fileID: 2129942329}
   m_SourcePrefab: {fileID: 100100000, guid: 4dfa587b99012f241bedf1d9f8e97884, type: 3}
 --- !u!4 &2129942322 stripped
 Transform:
   m_CorrespondingSourceObject: {fileID: -8679921383154817045, guid: 4dfa587b99012f241bedf1d9f8e97884, type: 3}
   m_PrefabInstance: {fileID: 2129942321}
   m_PrefabAsset: {fileID: 0}
---- !u!114 &2129942325
-MonoBehaviour:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 1526199174}
-  m_Enabled: 1
-  m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: 83af4897e603db042a1f914c84c9a385, type: 3}
-  m_Name: 
-  m_EditorClassIdentifier: 
 --- !u!65 &2129942326
 BoxCollider:
   m_ObjectHideFlags: 0
@@ -67079,6 +67278,22 @@ BoxCollider:
   serializedVersion: 3
   m_Size: {x: 0.09413343, y: 0.106045656, z: 0.021082658}
   m_Center: {x: 0.021898968, y: -0.0063168365, z: 0.00045537204}
+--- !u!114 &2129942329
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1526199174}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 84f44621a8d0fa24d8dee4e9c77c2202, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  woodCount: {fileID: 619658939}
+  _wood: {fileID: 619658941}
+  wood: {fileID: 1526199174}
+  durability: 3
 --- !u!1 &2133870555
 GameObject:
   m_ObjectHideFlags: 0
