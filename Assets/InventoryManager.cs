@@ -25,7 +25,7 @@ public class InventoryManager : MonoBehaviour
         {
             for (int i = 0; i < INVENTORY_SIZE; i++)
             {
-                if (inventory[i] == item && amount[i] < stackLimit[item]) {
+                if (inventory[i] == item && amount[i] < stackLimit[item.tag]) {
                     amount[i]++;
                     return true;
                 }
