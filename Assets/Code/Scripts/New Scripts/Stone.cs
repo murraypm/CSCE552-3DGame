@@ -2,7 +2,7 @@ using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
 
-public class D : MonoBehaviour
+public class Stone : MonoBehaviour
 {
     //public GameObject gui;
     // Start is called before the first frame update

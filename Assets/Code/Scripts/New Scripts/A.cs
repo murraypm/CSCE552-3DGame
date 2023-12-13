@@ -23,11 +23,11 @@ public class A : MonoBehaviour
                 if(collider.TryGetComponent(out B interactWithCube)){
                     interactWithCube.Interact();
                 }
-                if (collider.TryGetComponent(out C interactWithWood))
+                if (collider.TryGetComponent(out Wood interactWithWood))
                 {
                     interactWithWood.Interact();
                 }
-                if (collider.TryGetComponent(out D interactWithStone))
+                if (collider.TryGetComponent(out Stone interactWithStone))
                 {
                     interactWithStone.Interact();
                 }

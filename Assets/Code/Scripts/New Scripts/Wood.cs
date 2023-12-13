@@ -1,11 +1,16 @@
 using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
+using UnityEngine.UI;
+using TMPro;
 
-public class C : MonoBehaviour
+public class Wood : MonoBehaviour
 {
     //public GameObject gui;
     // Start is called before the first frame update
+
+    [SerializeField] private TextMeshProUGUI woodCount;
+
     void Start()
     {
         

@@ -33,7 +33,7 @@ public class EnemyManager : MonoBehaviour
     {
         if (collision.gameObject.tag == "Wall")
         {
-            HPGui.GetComponent<wallHealth>().DamageWall(40);
+            HPGui.GetComponent<wallHealth>().DamageWall(4);
             gameObject.GetComponent<Rigidbody>().AddForce(collision.GetContact(0).normal * 5, ForceMode.Impulse);
         }
     }
