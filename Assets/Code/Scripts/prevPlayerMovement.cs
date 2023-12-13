@@ -32,13 +32,13 @@ public class prevPlayerMovement : MonoBehaviour
         if (Input.GetKey(sprintKey))
         {
             //RunningSoundEffect.Play();
-            Debug.Log("Running");
+            //Debug.Log("Running");
             moveSpeed = 20.0f;
         } 
         else
         {
             //WalkingSoundEffect.Play();
-            Debug.Log("Walking");
+            //Debug.Log("Walking");
             moveSpeed = 10.0f;
         }
 

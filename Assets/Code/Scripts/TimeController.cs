@@ -28,10 +28,15 @@ public class TimeController : MonoBehaviour
     private string prevTime;
     private string currTime;
 
+    [SerializeField]
+    private WinLoseManager _winManager;
+
     // Start is called before the first frame update
     void Start()
     {
         //fix this a little bit more
+        //_winManager = GameObject.Find("WinLoseManager").GetComponent<WinLoseManager>();
+
         prevTime = "00:00";
         time = DateTime.Now.Date + TimeSpan.FromHours(startTime);
     }
@@ -65,6 +70,7 @@ public class TimeController : MonoBehaviour
                 dayGUI.text = "Day " + startDay.ToString();
                 if(startDay == 5)
                 {
+                    _winManager.Win();
                     //win screen
                     //victory sound
                 }

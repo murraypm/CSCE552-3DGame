@@ -7,6 +7,7 @@ public class wallHealth : MonoBehaviour
 {
     public Slider HPfill;
     [SerializeField] private AudioSource wallDamage;
+    [SerializeField] private WinLoseManager _winManager;
 
     // Start is called before the first frame update
     void Start()
@@ -29,5 +30,10 @@ public class wallHealth : MonoBehaviour
     {
         wallDamage.Play();
         HPfill.value -= health;
+        if(HPfill.value <= 0)
+        {
+            _winManager.Lose();
+            //lose screen
+        }
     }
 }
