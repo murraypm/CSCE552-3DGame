@@ -1,6 +1,7 @@
 using System;
 using System.Collections;
 using System.Collections.Generic;
+using System.IO;
 using UnityEngine;
 using Random = System.Random;
 
@@ -69,13 +70,30 @@ public class EnemySpawner : MonoBehaviour
 
     private void spawnEnemies(int numEnemies, int direction)
     {
-        if (direction == 0 || direction == 2)
+        // DIRECTION:
+        // 0 = NORTH
+        // 1 = EAST
+        // 2 = SOUTH
+        // 3 = WEST
+        if (direction == 0)
         {
             for (int i = 0; i < numEnemies; i++)
             {
                 Instantiate(enemy, new Vector3(-5 + rand.Next(-15, 15), 1, 27), Quaternion.identity);
             }
-        } else if (direction == 1 || direction == 3)
+        } else if (direction == 1)
+        {
+            for (int i = 0; i < numEnemies; i++)
+            {
+                Instantiate(enemy, new Vector3(28, 1, 5 + rand.Next(-15, 15)), Quaternion.identity);
+            }
+        } else if (direction == 2)
+        {
+            for (int i = 0; i < numEnemies; i++)
+            {
+                Instantiate(enemy, new Vector3(-5 + rand.Next(-15, 15), 1, -27), Quaternion.identity);
+            }
+        } else if (direction == 3)
         {
             for (int i = 0; i < numEnemies; i++)
             {
