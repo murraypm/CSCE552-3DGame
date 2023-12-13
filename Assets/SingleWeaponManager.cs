@@ -50,7 +50,7 @@ public class SingleWeaponManager : MonoBehaviour
 
     private void OnTriggerEnter(Collider other)
     {
-        if (!enemiesInReach.Contains(other.gameObject))
+        if (!enemiesInReach.Contains(other.gameObject) && other.tag == "Enemy")
         {
             enemiesInReach.Add(other.gameObject);
         }
@@ -58,7 +58,7 @@ public class SingleWeaponManager : MonoBehaviour
 
     private void OnTriggerExit(Collider other)
     {
-        if (enemiesInReach.Contains(other.gameObject))
+        if (enemiesInReach.Contains(other.gameObject) && other.tag == "Enemy")
         {
             enemiesInReach.Remove(other.gameObject);
         }

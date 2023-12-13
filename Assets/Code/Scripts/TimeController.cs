@@ -23,7 +23,7 @@ public class TimeController : MonoBehaviour
 
     [SerializeField]
     private TextMeshProUGUI dayGUI;
-    private int startDay = 0;
+    public int startDay = 0;
 
     private string prevTime;
     private string currTime;
