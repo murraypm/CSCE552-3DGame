@@ -9,7 +9,7 @@ public class SingleWeaponManager : MonoBehaviour
     float currentCoolDown = 0.0f;
     bool onCoolDown = false;
     List<GameObject> enemiesInReach = new List<GameObject>();
-    public LineRenderer lineRenderer;
+    //public LineRenderer lineRenderer;
 
     // Start is called before the first frame update
     void Start()
@@ -23,8 +23,8 @@ public class SingleWeaponManager : MonoBehaviour
         // TODO: Clean up this logic it's a mess and can definitely be optimized
         if (enemiesInReach.Count > 0)
         {
-            lineRenderer.SetPosition(0, this.transform.position);
-            lineRenderer.SetPosition(1, enemiesInReach[0].transform.position);
+            //lineRenderer.SetPosition(0, this.transform.position);
+            //lineRenderer.SetPosition(1, enemiesInReach[0].transform.position);
         }
         if (!onCoolDown && enemiesInReach.Count > 0)
         {

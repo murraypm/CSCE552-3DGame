@@ -9,6 +9,7 @@ TagManager:
   - Build
   - Break
   - Wall
+  - Enemy
   layers:
   - Default
   - TransparentFX
