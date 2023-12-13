@@ -9,7 +9,7 @@ public class EnemyManager : MonoBehaviour
     public int health = 5;
     Transform nearestWall = null;
 
-    // Start is called before the first frame update
+    // Start is called before the first frame update 
     void Start()
     {
         float minDistance = Mathf.Infinity;
