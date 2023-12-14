@@ -38,7 +38,7 @@ RenderSettings:
   m_ReflectionIntensity: 1
   m_CustomReflection: {fileID: 0}
   m_Sun: {fileID: 0}
-  m_IndirectSpecularColor: {r: 0.44657898, g: 0.4964133, b: 0.5748178, a: 1}
+  m_IndirectSpecularColor: {r: 0.44657826, g: 0.49641263, b: 0.57481676, a: 1}
   m_UseRadianceAmbientProbe: 0
 --- !u!157 &3
 LightmapSettings:
@@ -63650,6 +63650,7 @@ GameObject:
   serializedVersion: 6
   m_Component:
   - component: {fileID: 1468209630}
+  - component: {fileID: 1468209631}
   m_Layer: 5
   m_Name: invGUI
   m_TagString: Untagged
@@ -63684,6 +63685,22 @@ RectTransform:
   m_AnchoredPosition: {x: 0.000013184, y: -175}
   m_SizeDelta: {x: 100, y: 100}
   m_Pivot: {x: 0.5, y: 0.5}
+--- !u!114 &1468209631
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1468209629}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 6092742101e9bdf418d745b487f51250, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  slots:
+  - {fileID: 2048604801}
+  - {fileID: 267259801}
+  - {fileID: 2023129670}
 --- !u!1001 &1471476778
 PrefabInstance:
   m_ObjectHideFlags: 0

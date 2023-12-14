@@ -10,6 +10,7 @@ TagManager:
   - Break
   - Wall
   - Enemy
+  - Weapon
   layers:
   - Default
   - TransparentFX
