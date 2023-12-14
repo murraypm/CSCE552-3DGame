@@ -7,7 +7,7 @@ using Random = System.Random;
 
 public class EnemySpawner : MonoBehaviour
 {
-    public GameObject enemy;
+    public GameObject Archer;
     public GameObject timeController;
     public DateTime time;
     private int day;
@@ -79,25 +79,25 @@ public class EnemySpawner : MonoBehaviour
         {
             for (int i = 0; i < numEnemies; i++)
             {
-                Instantiate(enemy, new Vector3(-5 + rand.Next(-15, 15), 1, 27), Quaternion.identity);
+                Instantiate(Archer, new Vector3(-5 + rand.Next(-15, 15), 1, 27), Quaternion.Euler(0, 180, 0));
             }
         } else if (direction == 1)
         {
             for (int i = 0; i < numEnemies; i++)
             {
-                Instantiate(enemy, new Vector3(28, 1, 5 + rand.Next(-15, 15)), Quaternion.identity);
+                Instantiate(Archer, new Vector3(28, 1, 5 + rand.Next(-15, 15)), Quaternion.Euler(0, -90, 0));
             }
         } else if (direction == 2)
         {
             for (int i = 0; i < numEnemies; i++)
             {
-                Instantiate(enemy, new Vector3(-5 + rand.Next(-15, 15), 1, -27), Quaternion.identity);
+                Instantiate(Archer, new Vector3(-5 + rand.Next(-15, 15), 1, -27), Quaternion.identity);
             }
         } else if (direction == 3)
         {
             for (int i = 0; i < numEnemies; i++)
             {
-                Instantiate(enemy, new Vector3(-28, 1, 5 + rand.Next(-15, 15)), Quaternion.identity);
+                Instantiate(Archer, new Vector3(-28, 1, 5 + rand.Next(-15, 15)), Quaternion.Euler(0, 90, 0));
             }
         }
     }
