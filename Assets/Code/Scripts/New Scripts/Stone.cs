@@ -31,7 +31,7 @@ public class Stone : MonoBehaviour
         {
             stone.SetActive(false);
         }
-        stoneCount.text = "Stone " + stoneHolder.amountOfStone.ToString();
-        Debug.Log("StoneInteracted!");
+        stoneCount.text = "Stone: " + stoneHolder.amountOfStone.ToString();
+        //Debug.Log("StoneInteracted!");
     }
 }

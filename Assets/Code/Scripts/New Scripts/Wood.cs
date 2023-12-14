@@ -31,6 +31,6 @@ public class Wood : MonoBehaviour
         {
             wood.SetActive(false);
         }
-        woodCount.text = "Wood " + woodHolder.amountOfWood.ToString();
+        woodCount.text = "Wood: " + woodHolder.amountOfWood.ToString();
     }
 }
