@@ -11,6 +11,7 @@ TagManager:
   - Wall
   - Enemy
   - Weapon
+  - SingleWeaponVend
   layers:
   - Default
   - TransparentFX

@@ -31,6 +31,10 @@ public class A : MonoBehaviour
                 {
                     interactWithStone.Interact();
                 }
+                if (collider.tag == "SingleWeaponVend")
+                {
+                    collider.GetComponent<SingleWeaponVend>().BuyWeapon();
+                }
             }
         }
     }

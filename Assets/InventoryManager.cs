@@ -16,7 +16,7 @@ public class InventoryManager : MonoBehaviour
         {
             inventory[i] = null;
         }
-
+        stackLimit.Add("Weapon", 1);
         // TODO: define object's stack limit here
     }
 
