@@ -8,6 +8,8 @@ public class buildingV3 : MonoBehaviour
     public Transform PlayerRaycast;
 
     public Transform PlayerBuilt;
+    public GameObject invUI;
+    public GameObject InventoryManager;
 
     // Start is called before the first frame update
     void Start()
@@ -24,12 +26,16 @@ public class buildingV3 : MonoBehaviour
         }
         if (Input.GetMouseButtonDown(1))
         {
-            Destroy();
+            DestroyBuild();
         }
     }
 
     void Build(GameObject bm)
     {
+        if (InventoryManager.GetComponent<InventoryManager>().inventory[invUI.GetComponent<InventoryControl>().selectedSlot] == null)
+        {
+            return;
+        }
         if (Physics.Raycast(PlayerRaycast.position, PlayerRaycast.forward, out RaycastHit hitinfo))
         {
             //Debug.Log(hitInfo.transform.name);
@@ -37,6 +43,7 @@ public class buildingV3 : MonoBehaviour
             {
                 Vector3 placePosition = new Vector3(Mathf.RoundToInt(hitinfo.point.x), Mathf.RoundToInt(hitinfo.point.y), Mathf.RoundToInt(hitinfo.point.z));
                 Instantiate(bm, placePosition, Quaternion.identity, PlayerBuilt);
+                DestroyImmediate(InventoryManager.GetComponent<InventoryManager>().inventory[invUI.GetComponent<InventoryControl>().selectedSlot], true);
             }
             //Vector3 placePosition = new Vector3(Mathf.RoundToInt(hitinfo.point.x), Mathf.RoundToInt(hitinfo.point.y), Mathf.RoundToInt(hitinfo.point.z));
             //Instantiate(bm, placePosition, Quaternion.identity);
@@ -44,7 +51,7 @@ public class buildingV3 : MonoBehaviour
         //Physics.Raycast(PlayerRaycast.position, PlayerRaycast.forward, out RaycastHit hitinfo)
     }
 
-    void Destroy()
+    void DestroyBuild()
     {
         if(Physics.Raycast(PlayerRaycast.position, PlayerRaycast.forward, out RaycastHit hitinfo))
         {

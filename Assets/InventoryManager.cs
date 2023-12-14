@@ -8,6 +8,7 @@ public class InventoryManager : MonoBehaviour
     public GameObject[] inventory = new GameObject[INVENTORY_SIZE];
     int[] amount = new int[3];
     Dictionary<string, int> stackLimit = new Dictionary<string, int>();
+    public GameObject[] sprites = new GameObject[INVENTORY_SIZE];
     // Start is called before the first frame update
     private void Awake()
     {
@@ -17,6 +18,20 @@ public class InventoryManager : MonoBehaviour
         }
 
         // TODO: define object's stack limit here
+    }
+
+    private void Update()
+    {
+        for (int i =0; i < inventory.Length; i++)
+        {
+            if (inventory[i] != null && !sprites[i].activeSelf)
+            {
+                sprites[i].SetActive(true);
+            } else if (inventory[i] == null && sprites[i].activeSelf)
+            {
+                sprites[i].SetActive(false);
+            }
+        }
     }
 
     public bool AddItem(GameObject item)

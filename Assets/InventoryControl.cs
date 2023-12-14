@@ -5,8 +5,9 @@ using UnityEngine;
 public class InventoryControl : MonoBehaviour
 {
     float input = 0.0f;
-    int selectedSlot = 0;
+    public int selectedSlot = 0;
     public GameObject[] slots = new GameObject[3];
+    public GameObject[] sprites = new GameObject[3];
     // Start is called before the first frame update
     void Start()
     {
