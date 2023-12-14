@@ -36333,7 +36333,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 0ca60335ca36b9d4681be791f62cea15, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  buildModel: {fileID: 4487255039167603364, guid: aa1e2582cdaf34649a204ffc6c1b3552, type: 3}
+  buildModel: {fileID: 6113824207152815539, guid: e3346c34684031048a58c4b33e1dc1a4, type: 3}
   PlayerRaycast: {fileID: 1263625339}
   PlayerBuilt: {fileID: 2137401553}
 --- !u!82 &870181004
