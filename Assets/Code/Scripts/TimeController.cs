@@ -30,6 +30,8 @@ public class TimeController : MonoBehaviour
 
     [SerializeField]
     private WinLoseManager _winManager;
+    float timer = 0.0f;
+    GameObject[] resourceNodes;
 
     // Start is called before the first frame update
     void Start()
@@ -39,6 +41,7 @@ public class TimeController : MonoBehaviour
 
         prevTime = "00:00";
         time = DateTime.Now.Date + TimeSpan.FromHours(startTime);
+        resourceNodes = GameObject.FindGameObjectsWithTag("ResourceNode");
     }
 
     // Update is called once per frame
@@ -46,6 +49,22 @@ public class TimeController : MonoBehaviour
     {
         UpdateTime();
         UpdateWheel();
+        if (time.Hour == 19 && time.Minute == 0 && timer > 3.0f)
+        {
+            //print("test nodes");
+            foreach (GameObject o in resourceNodes)
+            {
+                //print("test nodes");
+                //print(o.name + " " + o.active);
+                if (!o.activeSelf)
+                {
+                    //print("test nodes");
+                    o.SetActive(true);
+                }
+            }
+            timer = 0.0f;
+        }
+        timer += Time.deltaTime;
     }
 
     private void UpdateTime()
@@ -61,8 +80,7 @@ public class TimeController : MonoBehaviour
             prevTime = currTime;
             if(currTime == "19:00")
             {
-                //spawn wave
-                //spawn resources
+                //
             }
             if(currTime == "00:00")
             {

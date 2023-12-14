@@ -23,6 +23,11 @@ public class Wood : MonoBehaviour
     {
 
     }
+
+    private void OnEnable()
+    {
+        durability = 3;
+    }
     public void Interact()
     {
         _wood.addWood();
@@ -30,6 +35,7 @@ public class Wood : MonoBehaviour
         if (durability <= 0)
         {
             wood.SetActive(false);
+            this.gameObject.SetActive(false);
         }
         woodCount.text = "Wood: " + woodHolder.amountOfWood.ToString();
     }

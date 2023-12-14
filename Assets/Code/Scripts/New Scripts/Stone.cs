@@ -23,6 +23,11 @@ public class Stone : MonoBehaviour
     {
         
     }
+
+    private void OnEnable()
+    {
+        durability = 3;
+    }
     public void Interact()
     {
         _stone.addStone();
@@ -30,6 +35,7 @@ public class Stone : MonoBehaviour
         if (durability <= 0)
         {
             stone.SetActive(false);
+            this.gameObject.SetActive(false);
         }
         stoneCount.text = "Stone: " + stoneHolder.amountOfStone.ToString();
         //Debug.Log("StoneInteracted!");
